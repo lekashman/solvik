@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="overscorecomb" format="2">
+  <outline>
+    <contour>
+      <point x="-218" y="1699" type="line"/>
+      <point x="-1165" y="1699" type="line"/>
+      <point x="-1179" y="1613" type="line"/>
+      <point x="-232" y="1613" type="line"/>
+    </contour>
+  </outline>
+</glyph>

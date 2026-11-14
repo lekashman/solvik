@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1E38.ss07" format="2">
+  <advance width="1182"/>
+  <anchor x="534" y="0" name="Anchor-0"/>
+  <anchor x="491" y="1863" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="983" y="0" type="line"/>
+      <point x="1011" y="168" type="line"/>
+      <point x="305" y="168" type="line"/>
+      <point x="524" y="1490" type="line"/>
+      <point x="334" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="773" y="1863" type="line"/>
+      <point x="211" y="1863" type="line"/>
+      <point x="187" y="1721" type="line"/>
+      <point x="749" y="1721" type="line"/>
+    </contour>
+    <contour>
+      <point x="365" y="-428" type="line"/>
+      <point x="561" y="-428" type="line"/>
+      <point x="594" y="-232" type="line"/>
+      <point x="398" y="-232" type="line"/>
+    </contour>
+  </outline>
+</glyph>

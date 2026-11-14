@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="arrowdblleft.case" format="2">
+  <advance width="1955"/>
+  <outline>
+    <contour>
+      <point x="856" y="91" type="line"/>
+      <point x="917" y="152" type="line"/>
+      <point x="523" y="545" type="line"/>
+      <point x="1698" y="545" type="line"/>
+      <point x="1698" y="633" type="line"/>
+      <point x="435" y="633" type="line"/>
+      <point x="323" y="745" type="line"/>
+      <point x="434" y="857" type="line"/>
+      <point x="1698" y="857" type="line"/>
+      <point x="1698" y="943" type="line"/>
+      <point x="521" y="943" type="line"/>
+      <point x="917" y="1339" type="line"/>
+      <point x="856" y="1399" type="line"/>
+      <point x="202" y="745" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rturnsuper" format="2">
+  <advance width="641"/>
+  <unicode hex="02B4"/>
+  <outline>
+    <contour>
+      <point x="83" y="646" type="line"/>
+      <point x="91" y="644"/>
+      <point x="107" y="642"/>
+      <point x="132" y="641" type="curve"/>
+      <point x="222" y="642"/>
+      <point x="309" y="702"/>
+      <point x="369" y="779" type="curve"/>
+      <point x="385" y="647" type="line"/>
+      <point x="580" y="647" type="line"/>
+      <point x="716" y="1460" type="line"/>
+      <point x="468" y="1460" type="line"/>
+      <point x="385" y="952" type="line"/>
+      <point x="349" y="915"/>
+      <point x="284" y="901"/>
+      <point x="223" y="900" type="curve"/>
+      <point x="177" y="901"/>
+      <point x="148" y="906"/>
+      <point x="128" y="911" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="caronsubcomb" format="2">
+  <advance width="1004"/>
+  <outline>
+    <contour>
+      <point x="350" y="-142" type="line"/>
+      <point x="58" y="-142" type="line"/>
+      <point x="58" y="-166" type="line"/>
+      <point x="378" y="-474" type="line"/>
+      <point x="626" y="-474" type="line"/>
+      <point x="946" y="-166" type="line"/>
+      <point x="946" y="-142" type="line"/>
+      <point x="654" y="-142" type="line"/>
+      <point x="503" y="-317" type="line"/>
+    </contour>
+  </outline>
+</glyph>

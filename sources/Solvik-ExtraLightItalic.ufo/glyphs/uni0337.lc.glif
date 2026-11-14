@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0337.lc" format="2">
+  <advance width="443"/>
+  <outline>
+    <contour>
+      <point x="38" y="794" type="line"/>
+      <point x="524" y="1039" type="line"/>
+      <point x="538" y="1124" type="line"/>
+      <point x="51" y="879" type="line"/>
+    </contour>
+  </outline>
+</glyph>

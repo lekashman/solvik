@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04DD.ss07" format="2">
+  <advance width="1655"/>
+  <anchor x="975" y="1453" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="-39" y="0" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="711" y="516" type="line"/>
+      <point x="775" y="516" type="line"/>
+      <point x="690" y="0" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="866" y="516" type="line"/>
+      <point x="937" y="516" type="line"/>
+      <point x="1389" y="0" type="line"/>
+      <point x="1508" y="0" type="line"/>
+      <point x="1016" y="562" type="line"/>
+      <point x="1684" y="1118" type="line"/>
+      <point x="1562" y="1118" type="line"/>
+      <point x="944" y="602" type="line"/>
+      <point x="880" y="602" type="line"/>
+      <point x="966" y="1118" type="line"/>
+      <point x="875" y="1118" type="line"/>
+      <point x="789" y="602" type="line"/>
+      <point x="716" y="602" type="line"/>
+      <point x="268" y="1118" type="line"/>
+      <point x="154" y="1118" type="line"/>
+      <point x="639" y="562" type="line"/>
+    </contour>
+    <contour>
+      <point x="672" y="1311" type="line"/>
+      <point x="782" y="1311" type="line"/>
+      <point x="806" y="1453" type="line"/>
+      <point x="696" y="1453" type="line"/>
+    </contour>
+    <contour>
+      <point x="1122" y="1311" type="line"/>
+      <point x="1232" y="1311" type="line"/>
+      <point x="1256" y="1453" type="line"/>
+      <point x="1146" y="1453" type="line"/>
+    </contour>
+  </outline>
+</glyph>

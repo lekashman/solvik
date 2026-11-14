@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="plus.tf" format="2">
+  <advance width="1343"/>
+  <outline>
+    <contour>
+      <point x="509" y="65" type="line"/>
+      <point x="834" y="65" type="line"/>
+      <point x="834" y="445" type="line"/>
+      <point x="1215" y="445" type="line"/>
+      <point x="1215" y="764" type="line"/>
+      <point x="834" y="764" type="line"/>
+      <point x="834" y="1144" type="line"/>
+      <point x="509" y="1144" type="line"/>
+      <point x="509" y="764" type="line"/>
+      <point x="128" y="764" type="line"/>
+      <point x="128" y="445" type="line"/>
+      <point x="509" y="445" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutesubcomb" format="2">
+  <advance width="33"/>
+  <outline>
+    <contour>
+      <point x="-934" y="-362" type="line"/>
+      <point x="-670" y="-362" type="line"/>
+      <point x="-440" y="-24" type="line"/>
+      <point x="-789" y="-24" type="line"/>
+    </contour>
+  </outline>
+</glyph>

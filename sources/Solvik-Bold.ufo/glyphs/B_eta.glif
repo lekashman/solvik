@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Beta" format="2">
+  <advance width="1373"/>
+  <unicode hex="0392"/>
+  <anchor x="668" y="0" name="Anchor-0"/>
+  <anchor x="665" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="139" y="0" type="line"/>
+      <point x="775" y="0" type="line" smooth="yes"/>
+      <point x="1099" y="0"/>
+      <point x="1293" y="182"/>
+      <point x="1293" y="414" type="curve" smooth="yes"/>
+      <point x="1293" y="620"/>
+      <point x="1133" y="771"/>
+      <point x="962" y="779" type="curve"/>
+      <point x="962" y="772" type="line"/>
+      <point x="1117" y="805"/>
+      <point x="1234" y="932"/>
+      <point x="1234" y="1097" type="curve" smooth="yes"/>
+      <point x="1234" y="1319"/>
+      <point x="1052" y="1490"/>
+      <point x="737" y="1490" type="curve" smooth="yes"/>
+      <point x="139" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="444" y="267" type="line"/>
+      <point x="444" y="643" type="line"/>
+      <point x="723" y="643" type="line" smooth="yes"/>
+      <point x="870" y="643"/>
+      <point x="979" y="565"/>
+      <point x="979" y="442" type="curve" smooth="yes"/>
+      <point x="979" y="331"/>
+      <point x="887" y="267"/>
+      <point x="715" y="267" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="444" y="869" type="line"/>
+      <point x="444" y="1220" type="line"/>
+      <point x="697" y="1220" type="line" smooth="yes"/>
+      <point x="835" y="1220"/>
+      <point x="925" y="1156"/>
+      <point x="925" y="1049" type="curve" smooth="yes"/>
+      <point x="925" y="935"/>
+      <point x="818" y="869"/>
+      <point x="691" y="869" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

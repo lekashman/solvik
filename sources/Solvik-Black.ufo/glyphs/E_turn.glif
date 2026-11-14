@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Eturn" format="2">
+  <advance width="1264"/>
+  <unicode hex="018E"/>
+  <anchor x="643" y="0" name="Anchor-0"/>
+  <anchor x="645" y="0" name="Anchor-1"/>
+  <anchor x="89" y="1490" name="Anchor-3"/>
+  <anchor x="643" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="1166" y="1490" type="line"/>
+      <point x="91" y="1490" type="line"/>
+      <point x="91" y="1152" type="line"/>
+      <point x="762" y="1152" type="line"/>
+      <point x="762" y="898" type="line"/>
+      <point x="143" y="898" type="line"/>
+      <point x="143" y="572" type="line"/>
+      <point x="762" y="572" type="line"/>
+      <point x="762" y="335" type="line"/>
+      <point x="86" y="335" type="line"/>
+      <point x="86" y="0" type="line"/>
+      <point x="1166" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

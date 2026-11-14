@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="nlfthook" format="2">
+  <advance width="1350"/>
+  <unicode hex="0272"/>
+  <anchor x="677" y="0" name="Anchor-0"/>
+  <anchor x="677" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="89" y="-447" type="curve" smooth="yes"/>
+      <point x="361" y="-447"/>
+      <point x="511" y="-306"/>
+      <point x="511" y="-67" type="curve" smooth="yes"/>
+      <point x="511" y="627" type="line" smooth="yes"/>
+      <point x="511" y="732"/>
+      <point x="584" y="797"/>
+      <point x="679" y="797" type="curve" smooth="yes"/>
+      <point x="777" y="797"/>
+      <point x="846" y="732"/>
+      <point x="846" y="627" type="curve" smooth="yes"/>
+      <point x="846" y="0" type="line"/>
+      <point x="1248" y="0" type="line"/>
+      <point x="1248" y="710" type="line" smooth="yes"/>
+      <point x="1248" y="940"/>
+      <point x="1083" y="1132"/>
+      <point x="854" y="1132" type="curve" smooth="yes"/>
+      <point x="670" y="1132"/>
+      <point x="549" y="998"/>
+      <point x="493" y="848" type="curve"/>
+      <point x="486" y="1118" type="line"/>
+      <point x="109" y="1118" type="line"/>
+      <point x="109" y="-67" type="line" smooth="yes"/>
+      <point x="109" y="-127"/>
+      <point x="76" y="-145"/>
+      <point x="1" y="-145" type="curve" smooth="yes"/>
+      <point x="-37" y="-145"/>
+      <point x="-74" y="-141"/>
+      <point x="-113" y="-136" type="curve"/>
+      <point x="-113" y="-424" type="line"/>
+      <point x="-53" y="-440"/>
+      <point x="19" y="-447"/>
+    </contour>
+  </outline>
+</glyph>

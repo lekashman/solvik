@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="jcrosstail.ss07" format="2">
+  <advance width="672"/>
+  <anchor x="360" y="-460" name="Anchor-0"/>
+  <anchor x="428" y="0" name="Anchor-3"/>
+  <anchor x="598" y="1471" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="61" y="-418" type="curve" smooth="yes"/>
+      <point x="238" y="-419"/>
+      <point x="373" y="-280"/>
+      <point x="398" y="-121" type="curve" smooth="yes"/>
+      <point x="411" y="-35" type="line"/>
+      <point x="616" y="-35" type="line"/>
+      <point x="637" y="89" type="line"/>
+      <point x="436" y="89" type="line"/>
+      <point x="607" y="1118" type="line"/>
+      <point x="471" y="1118" type="line"/>
+      <point x="301" y="89" type="line"/>
+      <point x="163" y="89" type="line" smooth="yes"/>
+      <point x="0" y="89"/>
+      <point x="-157" y="-13"/>
+      <point x="-182" y="-167" type="curve" smooth="yes"/>
+      <point x="-205" y="-307"/>
+      <point x="-101" y="-419"/>
+    </contour>
+    <contour>
+      <point x="281" y="-35" type="line"/>
+      <point x="265" y="-133" type="line" smooth="yes"/>
+      <point x="253" y="-211"/>
+      <point x="176" y="-299"/>
+      <point x="80" y="-299" type="curve" smooth="yes"/>
+      <point x="4" y="-299"/>
+      <point x="-57" y="-242"/>
+      <point x="-46" y="-169" type="curve" smooth="yes"/>
+      <point x="-35" y="-94"/>
+      <point x="54" y="-35"/>
+      <point x="144" y="-35" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="494" y="1302" type="line"/>
+      <point x="647" y="1302" type="line"/>
+      <point x="675" y="1471" type="line"/>
+      <point x="522" y="1471" type="line"/>
+    </contour>
+  </outline>
+</glyph>

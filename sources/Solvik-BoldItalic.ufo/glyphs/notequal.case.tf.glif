@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="notequal.case.tf" format="2">
+  <advance width="1364"/>
+  <outline>
+    <contour>
+      <point x="888" y="1293" type="line"/>
+      <point x="786" y="1111" type="line"/>
+      <point x="262" y="1111" type="line"/>
+      <point x="216" y="843" type="line"/>
+      <point x="634" y="843" type="line"/>
+      <point x="520" y="642" type="line"/>
+      <point x="182" y="642" type="line"/>
+      <point x="139" y="373" type="line"/>
+      <point x="367" y="373" type="line"/>
+      <point x="266" y="193" type="line"/>
+      <point x="526" y="193" type="line"/>
+      <point x="628" y="373" type="line"/>
+      <point x="1156" y="373" type="line"/>
+      <point x="1201" y="642" type="line"/>
+      <point x="781" y="642" type="line"/>
+      <point x="895" y="843" type="line"/>
+      <point x="1235" y="843" type="line"/>
+      <point x="1280" y="1111" type="line"/>
+      <point x="1047" y="1111" type="line"/>
+      <point x="1149" y="1293" type="line"/>
+    </contour>
+  </outline>
+</glyph>

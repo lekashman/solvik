@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FDA.1" format="2">
+  <advance width="1501"/>
+  <anchor x="979" y="0" name="Anchor-0"/>
+  <anchor x="1444" y="0" name="Anchor-3"/>
+  <anchor x="979" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="516" y="0" type="line"/>
+      <point x="1443" y="0" type="line"/>
+      <point x="1443" y="335" type="line"/>
+      <point x="1181" y="335" type="line"/>
+      <point x="1181" y="1152" type="line"/>
+      <point x="1443" y="1152" type="line"/>
+      <point x="1443" y="1490" type="line"/>
+      <point x="516" y="1490" type="line"/>
+      <point x="516" y="1152" type="line"/>
+      <point x="777" y="1152" type="line"/>
+      <point x="777" y="335" type="line"/>
+      <point x="516" y="335" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="1226" type="line"/>
+      <point x="216" y="1564" type="line"/>
+      <point x="-123" y="1564" type="line"/>
+      <point x="27" y="1226" type="line"/>
+    </contour>
+  </outline>
+</glyph>

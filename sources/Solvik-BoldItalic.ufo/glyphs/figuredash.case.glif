@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="figuredash.case" format="2">
+  <advance width="1355"/>
+  <outline>
+    <contour>
+      <point x="1338" y="919" type="line"/>
+      <point x="129" y="919" type="line"/>
+      <point x="88" y="663" type="line"/>
+      <point x="1296" y="663" type="line"/>
+    </contour>
+  </outline>
+</glyph>

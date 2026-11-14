@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="colon.tf.ss07" format="2">
+  <advance width="563"/>
+  <outline>
+    <contour>
+      <point x="237" y="870" type="line"/>
+      <point x="425" y="870" type="line"/>
+      <point x="455" y="1054" type="line"/>
+      <point x="267" y="1054" type="line"/>
+    </contour>
+    <contour>
+      <point x="93" y="0" type="line"/>
+      <point x="281" y="0" type="line"/>
+      <point x="311" y="185" type="line"/>
+      <point x="123" y="185" type="line"/>
+    </contour>
+  </outline>
+</glyph>

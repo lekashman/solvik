@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="less.tf" format="2">
+  <advance width="1343"/>
+  <outline>
+    <contour>
+      <point x="98" y="425" type="line"/>
+      <point x="1121" y="0" type="line"/>
+      <point x="1182" y="373" type="line"/>
+      <point x="531" y="604" type="line"/>
+      <point x="531" y="605" type="line"/>
+      <point x="1259" y="836" type="line"/>
+      <point x="1320" y="1212" type="line"/>
+      <point x="158" y="784" type="line"/>
+    </contour>
+  </outline>
+</glyph>

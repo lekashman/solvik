@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni041F.turn" format="2">
+  <advance width="1509"/>
+  <outline>
+    <contour>
+      <point x="1274" y="0" type="line"/>
+      <point x="1521" y="1490" type="line"/>
+      <point x="1218" y="1490" type="line"/>
+      <point x="1014" y="266" type="line"/>
+      <point x="390" y="266" type="line"/>
+      <point x="593" y="1490" type="line"/>
+      <point x="290" y="1490" type="line"/>
+      <point x="43" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

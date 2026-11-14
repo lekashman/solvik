@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hturn" format="2">
+  <advance width="1276"/>
+  <unicode hex="0265"/>
+  <anchor x="637" y="1118" name="Anchor-0"/>
+  <anchor x="1035" y="1118" name="Anchor-1"/>
+  <anchor x="633" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="965" y="421" type="line" smooth="yes"/>
+      <point x="965" y="239"/>
+      <point x="806" y="109"/>
+      <point x="623" y="109" type="curve" smooth="yes"/>
+      <point x="445" y="109"/>
+      <point x="309" y="231"/>
+      <point x="309" y="405" type="curve" smooth="yes"/>
+      <point x="309" y="1118" type="line"/>
+      <point x="173" y="1118" type="line"/>
+      <point x="173" y="395" type="line" smooth="yes"/>
+      <point x="173" y="143"/>
+      <point x="349" y="-15"/>
+      <point x="584" y="-15" type="curve" smooth="yes"/>
+      <point x="739" y="-15"/>
+      <point x="888" y="55"/>
+      <point x="960" y="197" type="curve"/>
+      <point x="965" y="-372" type="line"/>
+      <point x="1101" y="-372" type="line"/>
+      <point x="1101" y="1118" type="line"/>
+      <point x="965" y="1118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

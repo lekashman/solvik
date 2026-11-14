@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acuterightcomb" format="2">
+  <outline>
+    <contour>
+      <point x="-280" y="1244" type="line"/>
+      <point x="-15" y="1244" type="line"/>
+      <point x="271" y="1582" type="line"/>
+      <point x="-78" y="1582" type="line"/>
+    </contour>
+  </outline>
+</glyph>

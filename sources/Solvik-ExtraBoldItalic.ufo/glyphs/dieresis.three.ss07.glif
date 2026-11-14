@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.three.ss07" format="2">
+  <advance width="1795"/>
+  <anchor x="1084" y="1563" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="1332" y="1247" type="line"/>
+      <point x="1621" y="1247" type="line"/>
+      <point x="1666" y="1563" type="line"/>
+      <point x="1375" y="1563" type="line"/>
+    </contour>
+    <contour>
+      <point x="406" y="1247" type="line"/>
+      <point x="696" y="1247" type="line"/>
+      <point x="740" y="1563" type="line"/>
+      <point x="449" y="1563" type="line"/>
+    </contour>
+    <contour>
+      <point x="869" y="1247" type="line"/>
+      <point x="1158" y="1247" type="line"/>
+      <point x="1203" y="1563" type="line"/>
+      <point x="912" y="1563" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.sups" format="2">
+  <advance width="683"/>
+  <unicode hex="00B9"/>
+  <outline>
+    <contour>
+      <point x="751" y="1716" type="line"/>
+      <point x="518" y="1716" type="line"/>
+      <point x="280" y="1593" type="line"/>
+      <point x="247" y="1403" type="line"/>
+      <point x="484" y="1522" type="line"/>
+      <point x="508" y="1522" type="line"/>
+      <point x="402" y="882" type="line"/>
+      <point x="612" y="882" type="line"/>
+    </contour>
+  </outline>
+</glyph>

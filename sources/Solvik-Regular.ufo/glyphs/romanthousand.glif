@@ -1,0 +1,42 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romanthousand" format="2">
+  <advance width="1925"/>
+  <unicode hex="216F"/>
+  <anchor x="958" y="0" name="Anchor-0"/>
+  <anchor x="958" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="188" y="0" type="line"/>
+      <point x="369" y="0" type="line"/>
+      <point x="369" y="851" type="line" smooth="yes"/>
+      <point x="369" y="966"/>
+      <point x="369" y="1142"/>
+      <point x="366" y="1284" type="curve"/>
+      <point x="424" y="1118"/>
+      <point x="492" y="935"/>
+      <point x="526" y="851" type="curve" smooth="yes"/>
+      <point x="880" y="0" type="line"/>
+      <point x="1045" y="0" type="line"/>
+      <point x="1393" y="851" type="line" smooth="yes"/>
+      <point x="1428" y="938"/>
+      <point x="1500" y="1126"/>
+      <point x="1553" y="1287" type="curve"/>
+      <point x="1549" y="1140"/>
+      <point x="1550" y="961"/>
+      <point x="1550" y="851" type="curve" smooth="yes"/>
+      <point x="1550" y="0" type="line"/>
+      <point x="1737" y="0" type="line"/>
+      <point x="1737" y="1490" type="line"/>
+      <point x="1462" y="1490" type="line"/>
+      <point x="1083" y="550" type="line" smooth="yes"/>
+      <point x="1053" y="475"/>
+      <point x="1000" y="325"/>
+      <point x="965" y="211" type="curve"/>
+      <point x="930" y="326"/>
+      <point x="875" y="478"/>
+      <point x="846" y="550" type="curve" smooth="yes"/>
+      <point x="463" y="1490" type="line"/>
+      <point x="188" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

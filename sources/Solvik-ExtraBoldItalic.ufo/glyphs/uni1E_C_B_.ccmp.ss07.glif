@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1ECB.ccmp.ss07" format="2">
+  <advance width="587"/>
+  <anchor x="201" y="0" name="Anchor-0"/>
+  <anchor x="378" y="0" name="Anchor-3"/>
+  <anchor x="383" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="24" y="0" type="line"/>
+      <point x="373" y="0" type="line"/>
+      <point x="558" y="1118" type="line"/>
+      <point x="209" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="-53" y="-460" type="line"/>
+      <point x="301" y="-460" type="line"/>
+      <point x="354" y="-140" type="line"/>
+      <point x="1" y="-140" type="line"/>
+    </contour>
+  </outline>
+</glyph>

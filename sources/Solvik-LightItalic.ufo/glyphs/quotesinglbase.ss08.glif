@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotesinglbase.ss08" format="2">
+  <advance width="493"/>
+  <outline>
+    <contour>
+      <point x="3" y="-273" type="line"/>
+      <point x="22" y="-273" type="line" smooth="yes"/>
+      <point x="138" y="-270"/>
+      <point x="218" y="-177"/>
+      <point x="241" y="-36" type="curve" smooth="yes"/>
+      <point x="278" y="185" type="line"/>
+      <point x="89" y="185" type="line"/>
+      <point x="58" y="0" type="line"/>
+      <point x="163" y="0" type="line"/>
+      <point x="156" y="-44" type="line" smooth="yes"/>
+      <point x="142" y="-129"/>
+      <point x="94" y="-193"/>
+      <point x="36" y="-195" type="curve"/>
+      <point x="16" y="-195" type="line"/>
+    </contour>
+  </outline>
+</glyph>

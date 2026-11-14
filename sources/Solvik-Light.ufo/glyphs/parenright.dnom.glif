@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="parenright.dnom" format="2">
+  <advance width="473"/>
+  <outline>
+    <contour>
+      <point x="69" y="-74" type="curve"/>
+      <point x="183" y="-74" type="line"/>
+      <point x="277" y="77"/>
+      <point x="333" y="250"/>
+      <point x="333" y="406" type="curve" smooth="yes"/>
+      <point x="333" y="578"/>
+      <point x="272" y="795"/>
+      <point x="183" y="931" type="curve"/>
+      <point x="69" y="931" type="line"/>
+      <point x="153" y="767"/>
+      <point x="212" y="563"/>
+      <point x="212" y="406" type="curve" smooth="yes"/>
+      <point x="212" y="269"/>
+      <point x="165" y="121"/>
+    </contour>
+  </outline>
+</glyph>

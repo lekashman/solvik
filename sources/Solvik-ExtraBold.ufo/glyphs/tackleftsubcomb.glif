@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tackleftsubcomb" format="2">
+  <advance width="31"/>
+  <outline>
+    <contour>
+      <point x="-614" y="-558" type="line"/>
+      <point x="-410" y="-558" type="line"/>
+      <point x="-410" y="-68" type="line"/>
+      <point x="-614" y="-68" type="line"/>
+      <point x="-614" y="-206" type="line"/>
+      <point x="-957" y="-206" type="line"/>
+      <point x="-957" y="-417" type="line"/>
+      <point x="-614" y="-417" type="line"/>
+    </contour>
+  </outline>
+</glyph>

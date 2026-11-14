@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FEF.tonos" format="2">
+  <advance width="621"/>
+  <outline>
+    <contour>
+      <point x="614" y="1229" type="line"/>
+      <point x="634" y="1561" type="line"/>
+      <point x="358" y="1561" type="line"/>
+      <point x="440" y="1229" type="line"/>
+    </contour>
+  </outline>
+</glyph>

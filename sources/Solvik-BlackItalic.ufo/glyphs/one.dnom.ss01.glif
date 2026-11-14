@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom.ss01" format="2">
+  <advance width="557"/>
+  <outline>
+    <contour>
+      <point x="158" y="0" type="line"/>
+      <point x="394" y="0" type="line"/>
+      <point x="535" y="846" type="line"/>
+      <point x="345" y="846" type="line"/>
+      <point x="292" y="770"/>
+      <point x="177" y="685"/>
+      <point x="70" y="685" type="curve"/>
+      <point x="93" y="679" type="line"/>
+      <point x="61" y="483" type="line"/>
+      <point x="118" y="483"/>
+      <point x="210" y="528"/>
+      <point x="258" y="600" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

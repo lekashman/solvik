@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="AEacute" format="2">
+  <advance width="2184"/>
+  <unicode hex="01FC"/>
+  <anchor x="1595" y="1954" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="-48" y="0" type="line"/>
+      <point x="400" y="0" type="line"/>
+      <point x="552" y="283" type="line"/>
+      <point x="950" y="283" type="line"/>
+      <point x="903" y="0" type="line"/>
+      <point x="1979" y="0" type="line"/>
+      <point x="2035" y="335" type="line"/>
+      <point x="1363" y="335" type="line"/>
+      <point x="1402" y="576" type="line"/>
+      <point x="2022" y="576" type="line"/>
+      <point x="2077" y="910" type="line"/>
+      <point x="1458" y="910" type="line"/>
+      <point x="1498" y="1152" type="line"/>
+      <point x="2174" y="1152" type="line"/>
+      <point x="2230" y="1490" type="line"/>
+      <point x="791" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="1402" y="1616" type="line"/>
+      <point x="1667" y="1616" type="line"/>
+      <point x="1951" y="1954" type="line"/>
+      <point x="1602" y="1954" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="594" type="line"/>
+      <point x="973" y="1068" type="line"/>
+      <point x="1080" y="1068" type="line"/>
+      <point x="1001" y="594" type="line"/>
+    </contour>
+  </outline>
+</glyph>

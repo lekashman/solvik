@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="xsupcomb" format="2">
+  <advance width="36"/>
+  <outline>
+    <contour>
+      <point x="-810" y="1254" type="line"/>
+      <point x="-679" y="1376" type="line"/>
+      <point x="-549" y="1252" type="line"/>
+      <point x="-430" y="1364" type="line"/>
+      <point x="-560" y="1488" type="line"/>
+      <point x="-430" y="1610" type="line"/>
+      <point x="-546" y="1723" type="line"/>
+      <point x="-677" y="1601" type="line"/>
+      <point x="-806" y="1725" type="line"/>
+      <point x="-928" y="1613" type="line"/>
+      <point x="-797" y="1488" type="line"/>
+      <point x="-928" y="1365" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisacutecomb.lc.ss07" format="2">
+  <advance width="1285"/>
+  <outline>
+    <contour>
+      <point x="705" y="1605" type="line"/>
+      <point x="877" y="1605" type="line"/>
+      <point x="1130" y="1892" type="line"/>
+      <point x="895" y="1892" type="line"/>
+    </contour>
+    <contour>
+      <point x="404" y="1266" type="line"/>
+      <point x="645" y="1266" type="line"/>
+      <point x="689" y="1502" type="line"/>
+      <point x="448" y="1502" type="line"/>
+    </contour>
+    <contour>
+      <point x="855" y="1266" type="line"/>
+      <point x="1096" y="1266" type="line"/>
+      <point x="1139" y="1502" type="line"/>
+      <point x="899" y="1502" type="line"/>
+    </contour>
+  </outline>
+</glyph>

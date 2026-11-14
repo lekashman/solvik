@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni04BA" format="2">
+  <advance width="1470"/>
+  <unicode hex="04BA"/>
+  <anchor x="300" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="812" y="988" type="curve" smooth="yes"/>
+      <point x="693" y="988"/>
+      <point x="587" y="959"/>
+      <point x="502" y="883" type="curve"/>
+      <point x="502" y="1490" type="line"/>
+      <point x="98" y="1490" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+      <point x="502" y="622" type="line"/>
+      <point x="558" y="643"/>
+      <point x="639" y="660"/>
+      <point x="720" y="660" type="curve" smooth="yes"/>
+      <point x="905" y="660"/>
+      <point x="964" y="568"/>
+      <point x="964" y="429" type="curve" smooth="yes"/>
+      <point x="964" y="0" type="line"/>
+      <point x="1368" y="0" type="line"/>
+      <point x="1368" y="469" type="line" smooth="yes"/>
+      <point x="1368" y="818"/>
+      <point x="1120" y="988"/>
+    </contour>
+  </outline>
+</glyph>

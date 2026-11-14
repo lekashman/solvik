@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0354" format="2">
+  <unicode hex="0354"/>
+  <outline>
+    <contour>
+      <point x="-387" y="-517" type="line"/>
+      <point x="-375" y="-448" type="line"/>
+      <point x="-687" y="-337" type="line"/>
+      <point x="-777" y="-311" type="line"/>
+      <point x="-683" y="-287" type="line"/>
+      <point x="-335" y="-168" type="line"/>
+      <point x="-323" y="-95" type="line"/>
+      <point x="-855" y="-278" type="line"/>
+      <point x="-859" y="-311" type="line"/>
+      <point x="-864" y="-342" type="line"/>
+    </contour>
+  </outline>
+</glyph>

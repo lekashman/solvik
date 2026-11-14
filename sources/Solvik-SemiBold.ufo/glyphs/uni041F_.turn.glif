@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni041F.turn" format="2">
+  <advance width="1513"/>
+  <anchor x="756" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="1357" y="0" type="line"/>
+      <point x="1357" y="1490" type="line"/>
+      <point x="1090" y="1490" type="line"/>
+      <point x="1090" y="236" type="line"/>
+      <point x="422" y="236" type="line"/>
+      <point x="422" y="1490" type="line"/>
+      <point x="155" y="1490" type="line"/>
+      <point x="155" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

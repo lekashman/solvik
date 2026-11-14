@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02F5" format="2">
+  <advance width="1307"/>
+  <unicode hex="02F5"/>
+  <outline>
+    <contour>
+      <point x="583" y="1244" type="line"/>
+      <point x="857" y="1244" type="line"/>
+      <point x="733" y="1582" type="line"/>
+      <point x="366" y="1582" type="line"/>
+    </contour>
+    <contour>
+      <point x="959" y="1244" type="line"/>
+      <point x="1222" y="1244" type="line"/>
+      <point x="1175" y="1582" type="line"/>
+      <point x="846" y="1582" type="line"/>
+    </contour>
+  </outline>
+</glyph>

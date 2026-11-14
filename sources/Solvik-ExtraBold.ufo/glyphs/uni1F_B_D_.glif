@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FBD" format="2">
+  <advance width="496"/>
+  <unicode hex="1FBD"/>
+  <outline>
+    <contour>
+      <point x="133" y="1225" type="line" smooth="yes"/>
+      <point x="305" y="1225"/>
+      <point x="410" y="1293"/>
+      <point x="410" y="1408" type="curve" smooth="yes"/>
+      <point x="410" y="1520"/>
+      <point x="306" y="1594"/>
+      <point x="133" y="1594" type="curve" smooth="yes"/>
+      <point x="88" y="1594" type="line"/>
+      <point x="88" y="1427" type="line"/>
+      <point x="143" y="1427" type="line" smooth="yes"/>
+      <point x="207" y="1427"/>
+      <point x="248" y="1417"/>
+      <point x="248" y="1380" type="curve" smooth="yes"/>
+      <point x="248" y="1340"/>
+      <point x="203" y="1329"/>
+      <point x="133" y="1329" type="curve" smooth="yes"/>
+      <point x="124" y="1329" type="line"/>
+      <point x="124" y="1225" type="line"/>
+    </contour>
+  </outline>
+</glyph>

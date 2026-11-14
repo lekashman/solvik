@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotlessi.double" format="2">
+  <advance width="966"/>
+  <anchor x="480" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="185" y="0" type="line"/>
+      <point x="275" y="0" type="line"/>
+      <point x="275" y="1118" type="line"/>
+      <point x="185" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="691" y="0" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="781" y="1118" type="line"/>
+      <point x="691" y="1118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

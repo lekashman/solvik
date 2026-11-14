@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anoteleia.ss07" format="2">
+  <advance width="696"/>
+  <outline>
+    <contour>
+      <point x="184" y="789" type="line"/>
+      <point x="513" y="789" type="line"/>
+      <point x="513" y="1118" type="line"/>
+      <point x="184" y="1118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

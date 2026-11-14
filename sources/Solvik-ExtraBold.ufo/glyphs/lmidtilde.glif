@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmidtilde" format="2">
+  <advance width="584"/>
+  <unicode hex="026B"/>
+  <anchor x="289" y="0" name="Anchor-0"/>
+  <anchor x="290" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="464" y="1490" type="line"/>
+      <point x="115" y="1490" type="line"/>
+      <point x="115" y="940" type="line"/>
+      <point x="-45" y="939"/>
+      <point x="-160" y="815"/>
+      <point x="-165" y="640" type="curve"/>
+      <point x="49" y="640" type="line"/>
+      <point x="52" y="687"/>
+      <point x="82" y="728"/>
+      <point x="115" y="741" type="curve"/>
+      <point x="115" y="0" type="line"/>
+      <point x="464" y="0" type="line"/>
+      <point x="464" y="633" type="line"/>
+      <point x="621" y="634"/>
+      <point x="741" y="761"/>
+      <point x="745" y="935" type="curve"/>
+      <point x="533" y="935" type="line"/>
+      <point x="530" y="884"/>
+      <point x="503" y="845"/>
+      <point x="464" y="834" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Fturn" format="2">
+  <advance width="1225"/>
+  <unicode hex="2132"/>
+  <anchor x="585" y="0" name="Anchor-0"/>
+  <anchor x="934" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="1071" y="1490" type="line"/>
+      <point x="804" y="1490" type="line"/>
+      <point x="804" y="897" type="line"/>
+      <point x="172" y="897" type="line"/>
+      <point x="172" y="663" type="line"/>
+      <point x="804" y="663" type="line"/>
+      <point x="804" y="237" type="line"/>
+      <point x="105" y="237" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="1071" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

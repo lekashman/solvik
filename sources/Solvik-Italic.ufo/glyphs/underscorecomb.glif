@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscorecomb" format="2">
+  <outline>
+    <contour>
+      <point x="-228" y="-146" type="line"/>
+      <point x="-1196" y="-146" type="line"/>
+      <point x="-1223" y="-312" type="line"/>
+      <point x="-255" y="-312" type="line"/>
+    </contour>
+  </outline>
+</glyph>

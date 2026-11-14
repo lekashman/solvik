@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="anglesupcomb" format="2">
+  <outline>
+    <contour>
+      <point x="-611" y="1532" type="line"/>
+      <point x="-62" y="1532" type="line"/>
+      <point x="-105" y="1282" type="line"/>
+      <point x="49" y="1282" type="line"/>
+      <point x="113" y="1658" type="line"/>
+      <point x="-590" y="1658" type="line"/>
+    </contour>
+  </outline>
+</glyph>

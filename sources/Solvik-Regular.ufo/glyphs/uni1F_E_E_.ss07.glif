@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FEE.ss07" format="2">
+  <advance width="1419"/>
+  <outline>
+    <contour>
+      <point x="642" y="1489" type="line"/>
+      <point x="764" y="1489" type="line"/>
+      <point x="871" y="1783" type="line"/>
+      <point x="677" y="1783" type="line"/>
+    </contour>
+    <contour>
+      <point x="310" y="1294" type="line"/>
+      <point x="507" y="1294" type="line"/>
+      <point x="507" y="1490" type="line"/>
+      <point x="310" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="912" y="1294" type="line"/>
+      <point x="1109" y="1294" type="line"/>
+      <point x="1109" y="1490" type="line"/>
+      <point x="912" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.A_frac" format="2">
+  <advance width="867"/>
+  <anchor x="477" y="852" name="Anchor-0"/>
+  <anchor x="870" y="852" name="Anchor-3"/>
+  <anchor x="584" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="84" y="836" type="line"/>
+      <point x="301" y="836" type="line"/>
+      <point x="367" y="953" type="line"/>
+      <point x="621" y="953" type="line"/>
+      <point x="652" y="836" type="line"/>
+      <point x="870" y="836" type="line"/>
+      <point x="705" y="1490" type="line"/>
+      <point x="456" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="445" y="1092" type="line"/>
+      <point x="488" y="1171"/>
+      <point x="522" y="1265"/>
+      <point x="553" y="1352" type="curve"/>
+      <point x="560" y="1264"/>
+      <point x="566" y="1170"/>
+      <point x="585" y="1092" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

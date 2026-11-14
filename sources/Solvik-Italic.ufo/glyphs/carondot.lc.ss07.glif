@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="carondot.lc.ss07" format="2">
+  <advance width="860"/>
+  <outline>
+    <contour>
+      <point x="441" y="1536" type="line"/>
+      <point x="263" y="1536" type="line"/>
+      <point x="261" y="1526" type="line"/>
+      <point x="461" y="1260" type="line"/>
+      <point x="633" y="1260" type="line"/>
+      <point x="924" y="1525" type="line"/>
+      <point x="926" y="1536" type="line"/>
+      <point x="746" y="1536" type="line"/>
+      <point x="565" y="1357" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="1619" type="line"/>
+      <point x="703" y="1619" type="line"/>
+      <point x="736" y="1815" type="line"/>
+      <point x="539" y="1815" type="line"/>
+    </contour>
+  </outline>
+</glyph>

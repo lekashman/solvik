@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="gravesubcomb" format="2">
+  <outline>
+    <contour>
+      <point x="-475" y="-363" type="line"/>
+      <point x="-395" y="-363" type="line"/>
+      <point x="-551" y="-82" type="line"/>
+      <point x="-660" y="-82" type="line"/>
+    </contour>
+  </outline>
+</glyph>

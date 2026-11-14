@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="barmidlongcomb" format="2">
+  <outline>
+    <contour>
+      <point x="20" y="595" type="line"/>
+      <point x="-1141" y="595" type="line"/>
+      <point x="-1155" y="510" type="line"/>
+      <point x="6" y="510" type="line"/>
+    </contour>
+  </outline>
+</glyph>

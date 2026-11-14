@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romaneight" format="2">
+  <advance width="3053"/>
+  <unicode hex="2167"/>
+  <outline>
+    <contour>
+      <point x="643" y="0" type="line"/>
+      <point x="760" y="0" type="line"/>
+      <point x="1343" y="1490" type="line"/>
+      <point x="1242" y="1490" type="line"/>
+      <point x="831" y="426" type="line" smooth="yes"/>
+      <point x="794" y="330"/>
+      <point x="747" y="210"/>
+      <point x="702" y="78" type="curve"/>
+      <point x="657" y="208"/>
+      <point x="610" y="330"/>
+      <point x="573" y="426" type="curve" smooth="yes"/>
+      <point x="158" y="1490" type="line"/>
+      <point x="57" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="1733" y="1490" type="line"/>
+      <point x="1639" y="1490" type="line"/>
+      <point x="1639" y="0" type="line"/>
+      <point x="1733" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2286" y="1490" type="line"/>
+      <point x="2192" y="1490" type="line"/>
+      <point x="2192" y="0" type="line"/>
+      <point x="2286" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="2839" y="1490" type="line"/>
+      <point x="2745" y="1490" type="line"/>
+      <point x="2745" y="0" type="line"/>
+      <point x="2839" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

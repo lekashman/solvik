@@ -1,0 +1,11 @@
+# This is the official list of project authors for copyright purposes.
+# This file is distinct from the CONTRIBUTORS.txt file.
+# See the latter for an explanation.
+#
+# Names should be added to this file as:
+# Name or Organization <email address>
+
+Andrew Lekashman <andrew@lekashman.com>
+
+# Solvik is derived from Inter. Inter is copyright The Inter Project Authors
+# (https://github.com/rsms/inter) and designed by Rasmus Andersson.

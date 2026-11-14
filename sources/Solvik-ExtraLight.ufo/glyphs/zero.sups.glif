@@ -1,0 +1,36 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.sups" format="2">
+  <advance width="929"/>
+  <unicode hex="2070"/>
+  <anchor x="464" y="1692" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="465" y="900" type="curve" smooth="yes"/>
+      <point x="687" y="900"/>
+      <point x="830" y="1061"/>
+      <point x="830" y="1300" type="curve" smooth="yes"/>
+      <point x="830" y="1540"/>
+      <point x="686" y="1703"/>
+      <point x="465" y="1703" type="curve" smooth="yes"/>
+      <point x="242" y="1703"/>
+      <point x="100" y="1541"/>
+      <point x="100" y="1300" type="curve" smooth="yes"/>
+      <point x="100" y="1061"/>
+      <point x="242" y="900"/>
+    </contour>
+    <contour>
+      <point x="465" y="977" type="curve" smooth="yes"/>
+      <point x="300" y="977"/>
+      <point x="192" y="1105"/>
+      <point x="192" y="1300" type="curve" smooth="yes"/>
+      <point x="192" y="1497"/>
+      <point x="299" y="1626"/>
+      <point x="465" y="1626" type="curve" smooth="yes"/>
+      <point x="631" y="1626"/>
+      <point x="737" y="1497"/>
+      <point x="737" y="1300" type="curve" smooth="yes"/>
+      <point x="737" y="1105"/>
+      <point x="630" y="977"/>
+    </contour>
+  </outline>
+</glyph>

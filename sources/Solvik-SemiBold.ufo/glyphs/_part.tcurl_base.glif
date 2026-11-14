@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.tcurl_base" format="2">
+  <advance width="715"/>
+  <outline>
+    <contour>
+      <point x="187" y="393" type="line"/>
+      <point x="447" y="393" type="line"/>
+      <point x="447" y="901" type="line"/>
+      <point x="676" y="901" type="line"/>
+      <point x="676" y="1118" type="line"/>
+      <point x="447" y="1118" type="line"/>
+      <point x="447" y="1384" type="line"/>
+      <point x="187" y="1384" type="line"/>
+      <point x="187" y="1118" type="line"/>
+      <point x="23" y="1118" type="line"/>
+      <point x="23" y="901" type="line"/>
+      <point x="187" y="901" type="line"/>
+    </contour>
+  </outline>
+</glyph>

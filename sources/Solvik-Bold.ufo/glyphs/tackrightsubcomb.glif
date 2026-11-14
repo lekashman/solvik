@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tackrightsubcomb" format="2">
+  <outline>
+    <contour>
+      <point x="-876" y="-535" type="line"/>
+      <point x="-686" y="-535" type="line"/>
+      <point x="-686" y="-399" type="line"/>
+      <point x="-366" y="-399" type="line"/>
+      <point x="-366" y="-200" type="line"/>
+      <point x="-686" y="-200" type="line"/>
+      <point x="-686" y="-66" type="line"/>
+      <point x="-876" y="-66" type="line"/>
+    </contour>
+  </outline>
+</glyph>

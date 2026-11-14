@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni035E" format="2">
+  <unicode hex="035E"/>
+  <anchor x="-492" y="1304" name="_Anchor-4"/>
+  <anchor x="-492" y="1304" name="_Anchor-5"/>
+  <outline>
+    <contour>
+      <point x="149" y="1490" type="line"/>
+      <point x="-1069" y="1490" type="line"/>
+      <point x="-1101" y="1298" type="line"/>
+      <point x="117" y="1298" type="line"/>
+    </contour>
+  </outline>
+</glyph>

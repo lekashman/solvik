@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni25AA.case" format="2">
+  <advance width="1153"/>
+  <outline>
+    <contour>
+      <point x="365" y="951" type="line"/>
+      <point x="365" y="539" type="line"/>
+      <point x="777" y="539" type="line"/>
+      <point x="777" y="951" type="line"/>
+    </contour>
+  </outline>
+</glyph>

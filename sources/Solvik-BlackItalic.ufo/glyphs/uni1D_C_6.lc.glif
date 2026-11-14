@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DC6.lc" format="2">
+  <anchor x="514" y="1118" name="_Anchor-4"/>
+  <anchor x="514" y="1118" name="_Anchor-5"/>
+  <outline>
+    <contour>
+      <point x="881" y="1508" type="line"/>
+      <point x="278" y="1508" type="line"/>
+      <point x="237" y="1264" type="line"/>
+      <point x="840" y="1264" type="line"/>
+    </contour>
+    <contour>
+      <point x="529" y="1620" type="line"/>
+      <point x="740" y="1620" type="line"/>
+      <point x="667" y="1893" type="line"/>
+      <point x="389" y="1893" type="line"/>
+    </contour>
+  </outline>
+</glyph>

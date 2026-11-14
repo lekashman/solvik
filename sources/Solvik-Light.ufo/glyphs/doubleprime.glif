@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="doubleprime" format="2">
+  <advance width="820"/>
+  <unicode hex="2033"/>
+  <outline>
+    <contour>
+      <point x="108" y="967" type="line"/>
+      <point x="203" y="967" type="line"/>
+      <point x="315" y="1490" type="line"/>
+      <point x="162" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="506" y="967" type="line"/>
+      <point x="602" y="967" type="line"/>
+      <point x="713" y="1490" type="line"/>
+      <point x="561" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

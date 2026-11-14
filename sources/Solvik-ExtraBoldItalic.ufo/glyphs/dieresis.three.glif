@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.three" format="2">
+  <advance width="1794"/>
+  <anchor x="1064" y="1574" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="1471" y="1242" type="curve" smooth="yes"/>
+      <point x="1562" y="1242"/>
+      <point x="1647" y="1322"/>
+      <point x="1661" y="1408" type="curve" smooth="yes"/>
+      <point x="1676" y="1494"/>
+      <point x="1617" y="1574"/>
+      <point x="1526" y="1574" type="curve" smooth="yes"/>
+      <point x="1436" y="1574"/>
+      <point x="1351" y="1494"/>
+      <point x="1336" y="1408" type="curve" smooth="yes"/>
+      <point x="1322" y="1322"/>
+      <point x="1381" y="1242"/>
+    </contour>
+    <contour>
+      <point x="546" y="1242" type="curve" smooth="yes"/>
+      <point x="636" y="1242"/>
+      <point x="721" y="1322"/>
+      <point x="735" y="1408" type="curve" smooth="yes"/>
+      <point x="750" y="1494"/>
+      <point x="692" y="1574"/>
+      <point x="601" y="1574" type="curve" smooth="yes"/>
+      <point x="510" y="1574"/>
+      <point x="426" y="1494"/>
+      <point x="412" y="1408" type="curve" smooth="yes"/>
+      <point x="398" y="1322"/>
+      <point x="456" y="1242"/>
+    </contour>
+    <contour>
+      <point x="1009" y="1242" type="curve" smooth="yes"/>
+      <point x="1099" y="1242"/>
+      <point x="1184" y="1322"/>
+      <point x="1198" y="1408" type="curve" smooth="yes"/>
+      <point x="1213" y="1494"/>
+      <point x="1154" y="1574"/>
+      <point x="1064" y="1574" type="curve" smooth="yes"/>
+      <point x="973" y="1574"/>
+      <point x="889" y="1494"/>
+      <point x="873" y="1408" type="curve" smooth="yes"/>
+      <point x="859" y="1322"/>
+      <point x="918" y="1242"/>
+    </contour>
+  </outline>
+</glyph>

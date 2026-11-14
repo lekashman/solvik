@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macronsubcomb" format="2">
+  <advance width="888"/>
+  <outline>
+    <contour>
+      <point x="741" y="-194" type="line"/>
+      <point x="146" y="-194" type="line"/>
+      <point x="146" y="-422" type="line"/>
+      <point x="741" y="-422" type="line"/>
+    </contour>
+  </outline>
+</glyph>

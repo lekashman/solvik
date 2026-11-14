@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diamondwhite" format="2">
+  <advance width="2137"/>
+  <unicode hex="25C7"/>
+  <outline>
+    <contour>
+      <point x="2075" y="744" type="line"/>
+      <point x="1266" y="1722" type="line"/>
+      <point x="120" y="744" type="line"/>
+      <point x="940" y="-232" type="line"/>
+    </contour>
+    <contour>
+      <point x="1956" y="755" type="line"/>
+      <point x="950" y="-110" type="line"/>
+      <point x="243" y="734" type="line"/>
+      <point x="1255" y="1600" type="line"/>
+    </contour>
+  </outline>
+</glyph>

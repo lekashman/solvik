@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresis.ss07" format="2">
+  <advance width="1304"/>
+  <outline>
+    <contour>
+      <point x="293" y="1252" type="line"/>
+      <point x="556" y="1252" type="line"/>
+      <point x="556" y="1542" type="line"/>
+      <point x="293" y="1542" type="line"/>
+    </contour>
+    <contour>
+      <point x="749" y="1252" type="line"/>
+      <point x="1012" y="1252" type="line"/>
+      <point x="1012" y="1542" type="line"/>
+      <point x="749" y="1542" type="line"/>
+    </contour>
+  </outline>
+</glyph>

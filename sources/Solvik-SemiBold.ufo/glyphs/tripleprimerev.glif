@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="tripleprimerev" format="2">
+  <advance width="1619"/>
+  <unicode hex="2037"/>
+  <outline>
+    <contour>
+      <point x="423" y="914" type="line"/>
+      <point x="366" y="1490" type="line"/>
+      <point x="115" y="1490" type="line"/>
+      <point x="246" y="914" type="line"/>
+    </contour>
+    <contour>
+      <point x="964" y="914" type="line"/>
+      <point x="907" y="1490" type="line"/>
+      <point x="657" y="1490" type="line"/>
+      <point x="787" y="914" type="line"/>
+    </contour>
+    <contour>
+      <point x="1504" y="914" type="line"/>
+      <point x="1448" y="1490" type="line"/>
+      <point x="1198" y="1490" type="line"/>
+      <point x="1328" y="914" type="line"/>
+    </contour>
+  </outline>
+</glyph>

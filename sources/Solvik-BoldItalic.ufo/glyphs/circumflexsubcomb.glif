@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexsubcomb" format="2">
+  <outline>
+    <contour>
+      <point x="-976" y="-472" type="line"/>
+      <point x="-793" y="-295" type="line"/>
+      <point x="-669" y="-472" type="line"/>
+      <point x="-413" y="-472" type="line"/>
+      <point x="-405" y="-447" type="line"/>
+      <point x="-656" y="-148" type="line"/>
+      <point x="-881" y="-148" type="line"/>
+      <point x="-1227" y="-445" type="line"/>
+      <point x="-1235" y="-472" type="line"/>
+    </contour>
+  </outline>
+</glyph>

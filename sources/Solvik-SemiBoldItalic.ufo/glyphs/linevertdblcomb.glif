@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="linevertdblcomb" format="2">
+  <advance width="14"/>
+  <outline>
+    <contour>
+      <point x="-195" y="1572" type="line"/>
+      <point x="-371" y="1572" type="line"/>
+      <point x="-442" y="1128" type="line"/>
+      <point x="-268" y="1128" type="line"/>
+    </contour>
+    <contour>
+      <point x="-496" y="1572" type="line"/>
+      <point x="-671" y="1572" type="line"/>
+      <point x="-744" y="1128" type="line"/>
+      <point x="-570" y="1128" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Nhook" format="2">
+  <advance width="1584"/>
+  <unicode hex="019D"/>
+  <anchor x="696" y="0" name="Anchor-0"/>
+  <anchor x="943" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="-266" y="-426" type="line"/>
+      <point x="-218" y="-440"/>
+      <point x="-157" y="-447"/>
+      <point x="-94" y="-447" type="curve" smooth="yes"/>
+      <point x="155" y="-447"/>
+      <point x="323" y="-312"/>
+      <point x="360" y="-90" type="curve" smooth="yes"/>
+      <point x="375" y="0" type="line"/>
+      <point x="385" y="0" type="line"/>
+      <point x="486" y="616" type="line" smooth="yes"/>
+      <point x="502" y="710"/>
+      <point x="520" y="883"/>
+      <point x="535" y="1051" type="curve"/>
+      <point x="589" y="881"/>
+      <point x="632" y="752"/>
+      <point x="698" y="611" type="curve" smooth="yes"/>
+      <point x="985" y="0" type="line"/>
+      <point x="1370" y="0" type="line"/>
+      <point x="1617" y="1490" type="line"/>
+      <point x="1255" y="1490" type="line"/>
+      <point x="1149" y="851" type="line" smooth="yes"/>
+      <point x="1132" y="748"/>
+      <point x="1113" y="565"/>
+      <point x="1100" y="422" type="curve"/>
+      <point x="1063" y="577"/>
+      <point x="1014" y="711"/>
+      <point x="965" y="818" type="curve" smooth="yes"/>
+      <point x="654" y="1490" type="line"/>
+      <point x="269" y="1490" type="line"/>
+      <point x="44" y="135" type="line"/>
+      <point x="12" y="-68" type="line" smooth="yes"/>
+      <point x="1" y="-131"/>
+      <point x="-35" y="-149"/>
+      <point x="-119" y="-149" type="curve" smooth="yes"/>
+      <point x="-152" y="-149"/>
+      <point x="-186" y="-146"/>
+      <point x="-218" y="-141" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.cyrtail" format="2">
+  <advance width="611"/>
+  <outline>
+    <contour>
+      <point x="125" y="-328" type="line"/>
+      <point x="372" y="-328" type="line"/>
+      <point x="548" y="226" type="line"/>
+      <point x="152" y="226" type="line"/>
+      <point x="152" y="0" type="line"/>
+      <point x="227" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

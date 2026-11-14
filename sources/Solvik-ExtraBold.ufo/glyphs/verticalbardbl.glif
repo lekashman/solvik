@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="verticalbardbl" format="2">
+  <advance width="1251"/>
+  <unicode hex="2016"/>
+  <outline>
+    <contour>
+      <point x="569" y="1970" type="line"/>
+      <point x="235" y="1970" type="line"/>
+      <point x="235" y="-489" type="line"/>
+      <point x="569" y="-489" type="line"/>
+    </contour>
+    <contour>
+      <point x="1015" y="1970" type="line"/>
+      <point x="680" y="1970" type="line"/>
+      <point x="680" y="-489" type="line"/>
+      <point x="1015" y="-489" type="line"/>
+    </contour>
+  </outline>
+</glyph>

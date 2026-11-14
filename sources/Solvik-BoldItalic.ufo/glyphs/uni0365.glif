@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0365" format="2">
+  <unicode hex="0365"/>
+  <outline>
+    <contour>
+      <point x="-370" y="1754" type="line"/>
+      <point x="-524" y="1754" type="line"/>
+      <point x="-618" y="1181" type="line"/>
+      <point x="-463" y="1181" type="line"/>
+    </contour>
+    <contour>
+      <point x="-515" y="1883" type="curve" smooth="yes"/>
+      <point x="-524" y="1836"/>
+      <point x="-495" y="1791"/>
+      <point x="-442" y="1792" type="curve" smooth="yes"/>
+      <point x="-389" y="1791"/>
+      <point x="-349" y="1836"/>
+      <point x="-340" y="1883" type="curve" smooth="yes"/>
+      <point x="-333" y="1929"/>
+      <point x="-360" y="1974"/>
+      <point x="-413" y="1974" type="curve" smooth="yes"/>
+      <point x="-463" y="1974"/>
+      <point x="-507" y="1931"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lrthook" format="2">
+  <advance width="588"/>
+  <unicode hex="026D"/>
+  <anchor x="291" y="0" name="Anchor-0"/>
+  <anchor x="292" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="515" y="-447" type="curve" smooth="yes"/>
+      <point x="579" y="-447"/>
+      <point x="639" y="-441"/>
+      <point x="690" y="-427" type="curve"/>
+      <point x="690" y="-164" type="line"/>
+      <point x="656" y="-168"/>
+      <point x="624" y="-171"/>
+      <point x="591" y="-171" type="curve" smooth="yes"/>
+      <point x="507" y="-171"/>
+      <point x="466" y="-153"/>
+      <point x="466" y="-90" type="curve" smooth="yes"/>
+      <point x="466" y="1490" type="line"/>
+      <point x="117" y="1490" type="line"/>
+      <point x="117" y="-90" type="line" smooth="yes"/>
+      <point x="117" y="-312"/>
+      <point x="261" y="-447"/>
+    </contour>
+  </outline>
+</glyph>

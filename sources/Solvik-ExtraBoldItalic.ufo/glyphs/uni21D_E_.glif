@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni21DE" format="2">
+  <advance width="1337"/>
+  <unicode hex="21DE"/>
+  <outline>
+    <contour>
+      <point x="234" y="1027" type="line"/>
+      <point x="609" y="1027" type="line"/>
+      <point x="584" y="876" type="line"/>
+      <point x="369" y="876" type="line"/>
+      <point x="330" y="630" type="line"/>
+      <point x="543" y="630" type="line"/>
+      <point x="522" y="504" type="line"/>
+      <point x="307" y="504" type="line"/>
+      <point x="266" y="257" type="line"/>
+      <point x="482" y="257" type="line"/>
+      <point x="439" y="0" type="line"/>
+      <point x="709" y="0" type="line"/>
+      <point x="752" y="257" type="line"/>
+      <point x="965" y="257" type="line"/>
+      <point x="1008" y="504" type="line"/>
+      <point x="792" y="504" type="line"/>
+      <point x="813" y="630" type="line"/>
+      <point x="1029" y="630" type="line"/>
+      <point x="1070" y="876" type="line"/>
+      <point x="853" y="876" type="line"/>
+      <point x="878" y="1027" type="line"/>
+      <point x="1255" y="1027" type="line"/>
+      <point x="830" y="1550" type="line"/>
+    </contour>
+  </outline>
+</glyph>

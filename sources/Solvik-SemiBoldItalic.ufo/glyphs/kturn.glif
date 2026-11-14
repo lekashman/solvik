@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="kturn" format="2">
+  <advance width="1222"/>
+  <unicode hex="029E"/>
+  <anchor x="692" y="1118" name="Anchor-0"/>
+  <anchor x="715" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="1169" y="1118" type="line"/>
+      <point x="909" y="1118" type="line"/>
+      <point x="848" y="747" type="line"/>
+      <point x="721" y="637" type="line"/>
+      <point x="430" y="1118" type="line"/>
+      <point x="105" y="1118" type="line"/>
+      <point x="489" y="485" type="line"/>
+      <point x="-56" y="0" type="line"/>
+      <point x="265" y="0" type="line"/>
+      <point x="763" y="445" type="line"/>
+      <point x="798" y="445" type="line"/>
+      <point x="661" y="-380" type="line"/>
+      <point x="921" y="-380" type="line"/>
+    </contour>
+  </outline>
+</glyph>

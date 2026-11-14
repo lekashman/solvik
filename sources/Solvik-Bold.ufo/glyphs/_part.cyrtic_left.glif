@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_part.cyrtic_left" format="2">
+  <advance width="497"/>
+  <outline>
+    <contour>
+      <point x="356" y="-331" type="line"/>
+      <point x="356" y="0" type="line"/>
+      <point x="445" y="0" type="line"/>
+      <point x="445" y="187" type="line"/>
+      <point x="51" y="187" type="line"/>
+      <point x="65" y="-331" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="periodcentered.ss07" format="2">
+  <advance width="695"/>
+  <outline>
+    <contour>
+      <point x="177" y="537" type="line"/>
+      <point x="506" y="537" type="line"/>
+      <point x="561" y="866" type="line"/>
+      <point x="232" y="866" type="line"/>
+    </contour>
+  </outline>
+</glyph>

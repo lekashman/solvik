@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="idieresis.ss07" format="2">
+  <advance width="546"/>
+  <anchor x="275" y="0" name="Anchor-0"/>
+  <anchor x="410" y="0" name="Anchor-3"/>
+  <anchor x="273" y="1524" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="143" y="0" type="line"/>
+      <point x="403" y="0" type="line"/>
+      <point x="403" y="1118" type="line"/>
+      <point x="143" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="-77" y="1264" type="line"/>
+      <point x="163" y="1264" type="line"/>
+      <point x="163" y="1525" type="line"/>
+      <point x="-77" y="1525" type="line"/>
+    </contour>
+    <contour>
+      <point x="382" y="1264" type="line"/>
+      <point x="622" y="1264" type="line"/>
+      <point x="622" y="1525" type="line"/>
+      <point x="382" y="1525" type="line"/>
+    </contour>
+  </outline>
+</glyph>

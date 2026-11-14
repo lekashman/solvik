@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni204F.ss03" format="2">
+  <advance width="752"/>
+  <outline>
+    <contour>
+      <point x="338" y="-343" type="curve"/>
+      <point x="413" y="-203" type="line"/>
+      <point x="272" y="-149"/>
+      <point x="211" y="-78"/>
+      <point x="210" y="13" type="curve"/>
+      <point x="226" y="-1"/>
+      <point x="255" y="-15"/>
+      <point x="285" y="-15" type="curve" smooth="yes"/>
+      <point x="387" y="-15"/>
+      <point x="479" y="71"/>
+      <point x="496" y="171" type="curve" smooth="yes"/>
+      <point x="513" y="277"/>
+      <point x="443" y="362"/>
+      <point x="331" y="362" type="curve" smooth="yes"/>
+      <point x="213" y="362"/>
+      <point x="108" y="271"/>
+      <point x="85" y="130" type="curve" smooth="yes"/>
+      <point x="51" y="-80"/>
+      <point x="114" y="-263"/>
+    </contour>
+    <contour>
+      <point x="371" y="681" type="curve" smooth="yes"/>
+      <point x="477" y="681"/>
+      <point x="575" y="770"/>
+      <point x="593" y="873" type="curve" smooth="yes"/>
+      <point x="609" y="978"/>
+      <point x="541" y="1066"/>
+      <point x="435" y="1066" type="curve" smooth="yes"/>
+      <point x="329" y="1066"/>
+      <point x="232" y="978"/>
+      <point x="214" y="874" type="curve" smooth="yes"/>
+      <point x="197" y="771"/>
+      <point x="265" y="681"/>
+    </contour>
+  </outline>
+</glyph>

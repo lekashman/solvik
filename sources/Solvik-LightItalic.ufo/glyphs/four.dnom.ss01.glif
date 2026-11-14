@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="four.dnom.ss01" format="2">
+  <advance width="806"/>
+  <outline>
+    <contour>
+      <point x="15" y="137" type="line"/>
+      <point x="431" y="137" type="line"/>
+      <point x="408" y="0" type="line"/>
+      <point x="519" y="0" type="line"/>
+      <point x="542" y="137" type="line"/>
+      <point x="652" y="137" type="line"/>
+      <point x="668" y="237" type="line"/>
+      <point x="558" y="237" type="line"/>
+      <point x="601" y="499" type="line"/>
+      <point x="498" y="499" type="line"/>
+      <point x="455" y="237" type="line"/>
+      <point x="154" y="237" type="line"/>
+      <point x="155" y="243" type="line"/>
+      <point x="573" y="797" type="line"/>
+      <point x="457" y="797" type="line"/>
+      <point x="30" y="234" type="line"/>
+    </contour>
+  </outline>
+</glyph>

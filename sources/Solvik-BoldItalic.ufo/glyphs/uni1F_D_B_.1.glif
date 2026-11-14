@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1FDB.1" format="2">
+  <advance width="1433"/>
+  <anchor x="843" y="0" name="Anchor-0"/>
+  <anchor x="1264" y="0" name="Anchor-3"/>
+  <anchor x="1090" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="425" y="0" type="line"/>
+      <point x="1261" y="0" type="line"/>
+      <point x="1306" y="269" type="line"/>
+      <point x="1041" y="269" type="line"/>
+      <point x="1198" y="1216" type="line"/>
+      <point x="1463" y="1216" type="line"/>
+      <point x="1508" y="1490" type="line"/>
+      <point x="672" y="1490" type="line"/>
+      <point x="626" y="1216" type="line"/>
+      <point x="892" y="1216" type="line"/>
+      <point x="735" y="269" type="line"/>
+      <point x="469" y="269" type="line"/>
+    </contour>
+    <contour>
+      <point x="173" y="1158" type="line"/>
+      <point x="348" y="1158" type="line"/>
+      <point x="538" y="1490" type="line"/>
+      <point x="263" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,7 @@
+fontmake>=3.9
+fonttools>=4.50
+ufoLib2
+ufo-extractor
+fontFeatures
+uharfbuzz
+fontbakery[googlefonts]

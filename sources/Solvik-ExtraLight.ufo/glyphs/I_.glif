@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I" format="2">
+  <advance width="524"/>
+  <unicode hex="0049"/>
+  <anchor x="262" y="0" name="Anchor-0"/>
+  <anchor x="311" y="0" name="Anchor-3"/>
+  <anchor x="262" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="309" y="1490" type="line"/>
+      <point x="215" y="1490" type="line"/>
+      <point x="215" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

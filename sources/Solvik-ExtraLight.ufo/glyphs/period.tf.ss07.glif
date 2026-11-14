@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="period.tf.ss07" format="2">
+  <advance width="551"/>
+  <outline>
+    <contour>
+      <point x="205" y="0" type="line"/>
+      <point x="346" y="0" type="line"/>
+      <point x="346" y="137" type="line"/>
+      <point x="205" y="137" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.subs" format="2">
+  <advance width="415"/>
+  <unicode hex="2097"/>
+  <anchor x="59" y="-302" name="Anchor-0"/>
+  <anchor x="194" y="510" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="280" y="510" type="line"/>
+      <point x="109" y="510" type="line"/>
+      <point x="-26" y="-302" type="line"/>
+      <point x="145" y="-302" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DCA" format="2">
+  <unicode hex="1DCA"/>
+  <outline>
+    <contour>
+      <point x="-557" y="-126" type="line"/>
+      <point x="-569" y="-121"/>
+      <point x="-583" y="-122"/>
+      <point x="-600" y="-122" type="curve" smooth="yes"/>
+      <point x="-656" y="-122"/>
+      <point x="-713" y="-159"/>
+      <point x="-752" y="-200" type="curve"/>
+      <point x="-755" y="-128" type="line"/>
+      <point x="-875" y="-128" type="line"/>
+      <point x="-948" y="-566" type="line"/>
+      <point x="-801" y="-566" type="line"/>
+      <point x="-759" y="-322" type="line"/>
+      <point x="-734" y="-288"/>
+      <point x="-688" y="-275"/>
+      <point x="-642" y="-275" type="curve" smooth="yes"/>
+      <point x="-619" y="-275"/>
+      <point x="-600" y="-276"/>
+      <point x="-583" y="-285" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

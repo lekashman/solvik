@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0407.ss07" format="2">
+  <advance width="535"/>
+  <anchor x="268" y="0" name="Anchor-0"/>
+  <anchor x="317" y="0" name="Anchor-3"/>
+  <anchor x="268" y="1825" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="315" y="1490" type="line"/>
+      <point x="221" y="1490" type="line"/>
+      <point x="221" y="0" type="line"/>
+      <point x="315" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="3" y="1683" type="line"/>
+      <point x="112" y="1683" type="line"/>
+      <point x="112" y="1825" type="line"/>
+      <point x="3" y="1825" type="line"/>
+    </contour>
+    <contour>
+      <point x="424" y="1683" type="line"/>
+      <point x="532" y="1683" type="line"/>
+      <point x="532" y="1825" type="line"/>
+      <point x="424" y="1825" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedotcomb.lc.ss07" format="2">
+  <advance width="709"/>
+  <outline>
+    <contour>
+      <point x="21" y="1625" type="line"/>
+      <point x="423" y="1625" type="line"/>
+      <point x="423" y="1967" type="line"/>
+      <point x="21" y="1967" type="line"/>
+    </contour>
+    <contour>
+      <point x="50" y="1204" type="line"/>
+      <point x="362" y="1204" type="line"/>
+      <point x="668" y="1536" type="line"/>
+      <point x="269" y="1536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

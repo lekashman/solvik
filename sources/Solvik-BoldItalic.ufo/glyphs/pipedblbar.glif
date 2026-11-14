@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pipedblbar" format="2">
+  <advance width="563"/>
+  <unicode hex="01C2"/>
+  <outline>
+    <contour>
+      <point x="513" y="1465" type="line"/>
+      <point x="336" y="1465" type="line"/>
+      <point x="268" y="1053" type="line"/>
+      <point x="-8" y="1053" type="line"/>
+      <point x="-42" y="856" type="line"/>
+      <point x="236" y="856" type="line"/>
+      <point x="191" y="585" type="line"/>
+      <point x="-85" y="585" type="line"/>
+      <point x="-118" y="388" type="line"/>
+      <point x="158" y="388" type="line"/>
+      <point x="94" y="0" type="line"/>
+      <point x="270" y="0" type="line"/>
+      <point x="334" y="388" type="line"/>
+      <point x="614" y="388" type="line"/>
+      <point x="646" y="585" type="line"/>
+      <point x="366" y="585" type="line"/>
+      <point x="412" y="856" type="line"/>
+      <point x="691" y="856" type="line"/>
+      <point x="724" y="1053" type="line"/>
+      <point x="445" y="1053" type="line"/>
+    </contour>
+  </outline>
+</glyph>

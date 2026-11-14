@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.numr.ss01" format="2">
+  <advance width="554"/>
+  <outline>
+    <contour>
+      <point x="260" y="641" type="line"/>
+      <point x="496" y="641" type="line"/>
+      <point x="637" y="1491" type="line"/>
+      <point x="447" y="1491" type="line"/>
+      <point x="395" y="1414"/>
+      <point x="279" y="1328"/>
+      <point x="172" y="1328" type="curve"/>
+      <point x="195" y="1322" type="line"/>
+      <point x="163" y="1124" type="line"/>
+      <point x="220" y="1124"/>
+      <point x="312" y="1169"/>
+      <point x="360" y="1243" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

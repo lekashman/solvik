@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="zero.dnom" format="2">
+  <advance width="851"/>
+  <anchor x="425" y="835" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="425" y="-9" type="curve" smooth="yes"/>
+      <point x="649" y="-9"/>
+      <point x="789" y="164"/>
+      <point x="789" y="418" type="curve" smooth="yes"/>
+      <point x="789" y="673"/>
+      <point x="648" y="848"/>
+      <point x="425" y="848" type="curve" smooth="yes"/>
+      <point x="203" y="848"/>
+      <point x="62" y="674"/>
+      <point x="62" y="418" type="curve" smooth="yes"/>
+      <point x="62" y="164"/>
+      <point x="202" y="-9"/>
+    </contour>
+    <contour>
+      <point x="425" y="187" type="curve" smooth="yes"/>
+      <point x="340" y="187"/>
+      <point x="295" y="267"/>
+      <point x="295" y="418" type="curve" smooth="yes"/>
+      <point x="295" y="571"/>
+      <point x="341" y="653"/>
+      <point x="425" y="653" type="curve" smooth="yes"/>
+      <point x="509" y="653"/>
+      <point x="556" y="573"/>
+      <point x="556" y="418" type="curve" smooth="yes"/>
+      <point x="556" y="267"/>
+      <point x="509" y="187"/>
+    </contour>
+  </outline>
+</glyph>

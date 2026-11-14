@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lmidtilde" format="2">
+  <advance width="568"/>
+  <unicode hex="026B"/>
+  <anchor x="185" y="0" name="Anchor-0"/>
+  <anchor x="433" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="583" y="1490" type="line"/>
+      <point x="283" y="1490" type="line"/>
+      <point x="190" y="929" type="line"/>
+      <point x="188" y="929"/>
+      <point x="180" y="929"/>
+      <point x="178" y="929" type="curve" smooth="yes"/>
+      <point x="31" y="929"/>
+      <point x="-87" y="806"/>
+      <point x="-123" y="648" type="curve"/>
+      <point x="64" y="648" type="line"/>
+      <point x="76" y="694"/>
+      <point x="118" y="735"/>
+      <point x="159" y="744" type="curve"/>
+      <point x="36" y="0" type="line"/>
+      <point x="336" y="0" type="line"/>
+      <point x="442" y="642" type="line"/>
+      <point x="445" y="642"/>
+      <point x="454" y="642"/>
+      <point x="457" y="642" type="curve" smooth="yes"/>
+      <point x="599" y="642"/>
+      <point x="721" y="764"/>
+      <point x="756" y="923" type="curve"/>
+      <point x="573" y="923" type="line"/>
+      <point x="557" y="870"/>
+      <point x="519" y="833"/>
+      <point x="473" y="827" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

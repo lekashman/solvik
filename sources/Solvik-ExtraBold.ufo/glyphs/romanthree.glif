@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romanthree" format="2">
+  <advance width="1789"/>
+  <unicode hex="2162"/>
+  <outline>
+    <contour>
+      <point x="1071" y="1490" type="line"/>
+      <point x="718" y="1490" type="line"/>
+      <point x="718" y="0" type="line"/>
+      <point x="1071" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="1670" y="1490" type="line"/>
+      <point x="1317" y="1490" type="line"/>
+      <point x="1317" y="0" type="line"/>
+      <point x="1670" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="1490" type="line"/>
+      <point x="119" y="1490" type="line"/>
+      <point x="119" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

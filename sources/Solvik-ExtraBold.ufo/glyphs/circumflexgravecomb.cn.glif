@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexgravecomb.cn" format="2">
+  <advance width="1010"/>
+  <anchor x="496" y="1892" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="345" y="1217" type="line"/>
+      <point x="498" y="1392" type="line"/>
+      <point x="649" y="1217" type="line"/>
+      <point x="941" y="1217" type="line"/>
+      <point x="941" y="1241" type="line"/>
+      <point x="621" y="1549" type="line"/>
+      <point x="373" y="1549" type="line"/>
+      <point x="53" y="1241" type="line"/>
+      <point x="53" y="1217" type="line"/>
+    </contour>
+    <contour>
+      <point x="772" y="1610" type="line"/>
+      <point x="969" y="1610" type="line"/>
+      <point x="841" y="1892" type="line"/>
+      <point x="576" y="1892" type="line"/>
+    </contour>
+  </outline>
+</glyph>

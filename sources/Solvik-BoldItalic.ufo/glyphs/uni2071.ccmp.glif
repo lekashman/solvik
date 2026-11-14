@@ -1,0 +1,12 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2071.ccmp" format="2">
+  <advance width="565"/>
+  <outline>
+    <contour>
+      <point x="523" y="1369" type="line"/>
+      <point x="306" y="1369" type="line"/>
+      <point x="170" y="551" type="line"/>
+      <point x="388" y="551" type="line"/>
+    </contour>
+  </outline>
+</glyph>

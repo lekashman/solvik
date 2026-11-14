@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="linevertsubcomb" format="2">
+  <outline>
+    <contour>
+      <point x="-477" y="-79" type="line"/>
+      <point x="-631" y="-79" type="line"/>
+      <point x="-631" y="-489" type="line"/>
+      <point x="-477" y="-489" type="line"/>
+    </contour>
+  </outline>
+</glyph>

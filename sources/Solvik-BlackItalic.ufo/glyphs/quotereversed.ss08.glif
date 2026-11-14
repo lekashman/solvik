@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotereversed.ss08" format="2">
+  <advance width="690"/>
+  <outline>
+    <contour>
+      <point x="577" y="744" type="line"/>
+      <point x="611" y="945" type="line"/>
+      <point x="560" y="945" type="line" smooth="yes"/>
+      <point x="456" y="945"/>
+      <point x="410" y="988"/>
+      <point x="427" y="1090" type="curve"/>
+      <point x="428" y="1094" type="line"/>
+      <point x="635" y="1094" type="line"/>
+      <point x="701" y="1490" type="line"/>
+      <point x="293" y="1490" type="line"/>
+      <point x="229" y="1108" type="line" smooth="yes"/>
+      <point x="192" y="880"/>
+      <point x="299" y="744"/>
+      <point x="535" y="744" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

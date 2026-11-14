@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="diaeresistonoscomb.ss07" format="2">
+  <advance width="1420"/>
+  <outline>
+    <contour>
+      <point x="792" y="1489" type="line"/>
+      <point x="915" y="1489" type="line"/>
+      <point x="1071" y="1783" type="line"/>
+      <point x="877" y="1783" type="line"/>
+    </contour>
+    <contour>
+      <point x="428" y="1294" type="line"/>
+      <point x="625" y="1294" type="line"/>
+      <point x="658" y="1490" type="line"/>
+      <point x="461" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="1030" y="1294" type="line"/>
+      <point x="1227" y="1294" type="line"/>
+      <point x="1260" y="1490" type="line"/>
+      <point x="1063" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

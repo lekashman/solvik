@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dngb_check" format="2">
+  <advance width="1817"/>
+  <unicode hex="2713"/>
+  <outline>
+    <contour>
+      <point x="184" y="622" type="line"/>
+      <point x="659" y="61" type="line"/>
+      <point x="1772" y="1017" type="line"/>
+      <point x="1559" y="1267" type="line"/>
+      <point x="697" y="527" type="line"/>
+      <point x="435" y="834" type="line"/>
+    </contour>
+  </outline>
+</glyph>

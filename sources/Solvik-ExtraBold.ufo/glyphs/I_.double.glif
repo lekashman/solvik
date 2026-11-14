@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="I.double" format="2">
+  <advance width="1183"/>
+  <anchor x="589" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="1063" y="1490" type="line"/>
+      <point x="710" y="1490" type="line"/>
+      <point x="710" y="0" type="line"/>
+      <point x="1063" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="1490" type="line"/>
+      <point x="118" y="1490" type="line"/>
+      <point x="118" y="0" type="line"/>
+      <point x="472" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

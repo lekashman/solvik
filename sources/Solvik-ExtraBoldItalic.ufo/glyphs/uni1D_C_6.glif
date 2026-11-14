@@ -1,0 +1,14 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni1DC6" format="2">
+  <unicode hex="1DC6"/>
+  <outline>
+    <contour>
+      <point x="-893" y="1342" type="line"/>
+      <point x="-462" y="1342" type="line"/>
+      <point x="-353" y="1204" type="line"/>
+      <point x="-74" y="1204" type="line"/>
+      <point x="-238" y="1536" type="line"/>
+      <point x="-860" y="1536" type="line"/>
+    </contour>
+  </outline>
+</glyph>

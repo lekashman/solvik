@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dotdblsubcomb.ss07" format="2">
+  <advance width="1288"/>
+  <outline>
+    <contour>
+      <point x="298" y="-455" type="line"/>
+      <point x="539" y="-455" type="line"/>
+      <point x="539" y="-195" type="line"/>
+      <point x="298" y="-195" type="line"/>
+    </contour>
+    <contour>
+      <point x="749" y="-455" type="line"/>
+      <point x="989" y="-455" type="line"/>
+      <point x="989" y="-195" type="line"/>
+      <point x="749" y="-195" type="line"/>
+    </contour>
+  </outline>
+</glyph>

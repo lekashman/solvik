@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="one.dnom" format="2">
+  <advance width="568"/>
+  <outline>
+    <contour>
+      <point x="478" y="827" type="line"/>
+      <point x="259" y="827" type="line"/>
+      <point x="84" y="704" type="line"/>
+      <point x="84" y="526" type="line"/>
+      <point x="267" y="656" type="line"/>
+      <point x="293" y="656" type="line"/>
+      <point x="293" y="0" type="line"/>
+      <point x="478" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="underscoredblcomb" format="2">
+  <advance width="24"/>
+  <outline>
+    <contour>
+      <point x="-246" y="-366" type="line"/>
+      <point x="-1199" y="-366" type="line"/>
+      <point x="-1199" y="-586" type="line"/>
+      <point x="-246" y="-586" type="line"/>
+    </contour>
+    <contour>
+      <point x="-246" y="-82" type="line"/>
+      <point x="-1199" y="-82" type="line"/>
+      <point x="-1199" y="-300" type="line"/>
+      <point x="-246" y="-300" type="line"/>
+    </contour>
+  </outline>
+</glyph>

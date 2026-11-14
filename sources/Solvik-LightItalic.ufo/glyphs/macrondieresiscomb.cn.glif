@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrondieresiscomb.cn" format="2">
+  <advance width="950"/>
+  <outline>
+    <contour>
+      <point x="953" y="1819" type="line"/>
+      <point x="409" y="1819" type="line"/>
+      <point x="391" y="1709" type="line"/>
+      <point x="934" y="1709" type="line"/>
+    </contour>
+    <contour>
+      <point x="498" y="1982" type="curve" smooth="yes"/>
+      <point x="551" y="1982"/>
+      <point x="602" y="2025"/>
+      <point x="610" y="2077" type="curve" smooth="yes"/>
+      <point x="619" y="2129"/>
+      <point x="583" y="2171"/>
+      <point x="531" y="2171" type="curve" smooth="yes"/>
+      <point x="478" y="2171"/>
+      <point x="427" y="2129"/>
+      <point x="418" y="2077" type="curve" smooth="yes"/>
+      <point x="409" y="2025"/>
+      <point x="446" y="1982"/>
+    </contour>
+    <contour>
+      <point x="934" y="1982" type="curve" smooth="yes"/>
+      <point x="987" y="1982"/>
+      <point x="1038" y="2025"/>
+      <point x="1047" y="2077" type="curve" smooth="yes"/>
+      <point x="1055" y="2129"/>
+      <point x="1019" y="2171"/>
+      <point x="966" y="2171" type="curve" smooth="yes"/>
+      <point x="914" y="2171"/>
+      <point x="863" y="2129"/>
+      <point x="854" y="2077" type="curve" smooth="yes"/>
+      <point x="846" y="2025"/>
+      <point x="882" y="1982"/>
+    </contour>
+  </outline>
+</glyph>

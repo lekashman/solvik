@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="t.sc" format="2">
+  <advance width="1011"/>
+  <unicode hex="1D1B"/>
+  <anchor x="593" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="319" y="0" type="line"/>
+      <point x="499" y="0" type="line"/>
+      <point x="657" y="952" type="line"/>
+      <point x="1050" y="952" type="line"/>
+      <point x="1077" y="1118" type="line"/>
+      <point x="109" y="1118" type="line"/>
+      <point x="82" y="952" type="line"/>
+      <point x="477" y="952" type="line"/>
+    </contour>
+  </outline>
+</glyph>

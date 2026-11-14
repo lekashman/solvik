@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="i.ss07" format="2">
+  <advance width="547"/>
+  <anchor x="180" y="0" name="Anchor-0"/>
+  <anchor x="314" y="0" name="Anchor-3"/>
+  <anchor x="431" y="1525" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="47" y="0" type="line"/>
+      <point x="307" y="0" type="line"/>
+      <point x="492" y="1118" type="line"/>
+      <point x="232" y="1118" type="line"/>
+    </contour>
+    <contour>
+      <point x="252" y="1264" type="line"/>
+      <point x="522" y="1264" type="line"/>
+      <point x="566" y="1525" type="line"/>
+      <point x="295" y="1525" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Gbar.1" format="2">
+  <advance width="1559"/>
+  <anchor x="690" y="0" name="Anchor-0"/>
+  <anchor x="945" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="676" y="-20" type="curve" smooth="yes"/>
+      <point x="890" y="-20"/>
+      <point x="1073" y="89"/>
+      <point x="1172" y="226" type="curve"/>
+      <point x="1165" y="0" type="line"/>
+      <point x="1348" y="0" type="line"/>
+      <point x="1405" y="343" type="line"/>
+      <point x="1498" y="343" type="line"/>
+      <point x="1520" y="476" type="line"/>
+      <point x="1427" y="476" type="line"/>
+      <point x="1478" y="784" type="line"/>
+      <point x="867" y="784" type="line"/>
+      <point x="831" y="561" type="line"/>
+      <point x="1182" y="561" type="line"/>
+      <point x="1175" y="526"/>
+      <point x="1167" y="505"/>
+      <point x="1154" y="476" type="curve"/>
+      <point x="818" y="476" type="line"/>
+      <point x="795" y="343" type="line"/>
+      <point x="1061" y="343" type="line"/>
+      <point x="983" y="261"/>
+      <point x="876" y="232"/>
+      <point x="750" y="232" type="curve" smooth="yes"/>
+      <point x="493" y="232"/>
+      <point x="346" y="426"/>
+      <point x="399" y="744" type="curve" smooth="yes"/>
+      <point x="452" y="1061"/>
+      <point x="666" y="1255"/>
+      <point x="910" y="1255" type="curve" smooth="yes"/>
+      <point x="1084" y="1255"/>
+      <point x="1206" y="1155"/>
+      <point x="1230" y="1000" type="curve"/>
+      <point x="1502" y="1000" type="line"/>
+      <point x="1503" y="1289"/>
+      <point x="1268" y="1510"/>
+      <point x="949" y="1510" type="curve" smooth="yes"/>
+      <point x="551" y="1510"/>
+      <point x="204" y="1189"/>
+      <point x="130" y="740" type="curve" smooth="yes"/>
+      <point x="57" y="299"/>
+      <point x="292" y="-20"/>
+    </contour>
+  </outline>
+</glyph>

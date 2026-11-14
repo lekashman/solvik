@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bridgeinvsubcomb" format="2">
+  <outline>
+    <contour>
+      <point x="-754" y="-138" type="line"/>
+      <point x="-835" y="-138" type="line"/>
+      <point x="-835" y="-478" type="line"/>
+      <point x="-242" y="-478" type="line"/>
+      <point x="-242" y="-138" type="line"/>
+      <point x="-325" y="-138" type="line"/>
+      <point x="-325" y="-406" type="line"/>
+      <point x="-754" y="-406" type="line"/>
+    </contour>
+  </outline>
+</glyph>

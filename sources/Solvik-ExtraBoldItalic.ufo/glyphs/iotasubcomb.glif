@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotasubcomb" format="2">
+  <advance width="36"/>
+  <outline>
+    <contour>
+      <point x="-882" y="-70" type="line"/>
+      <point x="-928" y="-344" type="line" smooth="yes"/>
+      <point x="-949" y="-473"/>
+      <point x="-874" y="-545"/>
+      <point x="-765" y="-544" type="curve" smooth="yes"/>
+      <point x="-725" y="-545"/>
+      <point x="-692" y="-539"/>
+      <point x="-664" y="-530" type="curve"/>
+      <point x="-638" y="-387" type="line"/>
+      <point x="-652" y="-389"/>
+      <point x="-664" y="-389"/>
+      <point x="-680" y="-390" type="curve"/>
+      <point x="-725" y="-389"/>
+      <point x="-745" y="-379"/>
+      <point x="-739" y="-347" type="curve" smooth="yes"/>
+      <point x="-694" y="-70" type="line"/>
+    </contour>
+  </outline>
+</glyph>

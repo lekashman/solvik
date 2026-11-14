@@ -1,0 +1,45 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaroncomb.uc" format="2">
+  <advance width="1248"/>
+  <outline>
+    <contour>
+      <point x="757" y="2263" type="line"/>
+      <point x="579" y="2263" type="line"/>
+      <point x="576" y="2253" type="line"/>
+      <point x="776" y="1987" type="line"/>
+      <point x="949" y="1987" type="line"/>
+      <point x="1239" y="2252" type="line"/>
+      <point x="1242" y="2263" type="line"/>
+      <point x="1062" y="2263" type="line"/>
+      <point x="881" y="2084" type="line"/>
+    </contour>
+    <contour>
+      <point x="586" y="1645" type="curve" smooth="yes"/>
+      <point x="651" y="1645"/>
+      <point x="714" y="1699"/>
+      <point x="725" y="1764" type="curve" smooth="yes"/>
+      <point x="736" y="1829"/>
+      <point x="691" y="1882"/>
+      <point x="626" y="1882" type="curve" smooth="yes"/>
+      <point x="560" y="1882"/>
+      <point x="496" y="1829"/>
+      <point x="485" y="1764" type="curve" smooth="yes"/>
+      <point x="474" y="1699"/>
+      <point x="519" y="1645"/>
+    </contour>
+    <contour>
+      <point x="1025" y="1645" type="curve" smooth="yes"/>
+      <point x="1091" y="1645"/>
+      <point x="1154" y="1699"/>
+      <point x="1165" y="1764" type="curve" smooth="yes"/>
+      <point x="1176" y="1829"/>
+      <point x="1131" y="1882"/>
+      <point x="1066" y="1882" type="curve" smooth="yes"/>
+      <point x="1000" y="1882"/>
+      <point x="936" y="1829"/>
+      <point x="925" y="1764" type="curve" smooth="yes"/>
+      <point x="914" y="1699"/>
+      <point x="959" y="1645"/>
+    </contour>
+  </outline>
+</glyph>

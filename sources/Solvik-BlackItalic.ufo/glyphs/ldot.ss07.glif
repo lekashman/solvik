@@ -1,0 +1,20 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ldot.ss07" format="2">
+  <advance width="1088"/>
+  <anchor x="210" y="0" name="Anchor-0"/>
+  <anchor x="458" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="659" y="1490" type="line"/>
+      <point x="257" y="1490" type="line"/>
+      <point x="10" y="0" type="line"/>
+      <point x="412" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="645" y="547" type="line"/>
+      <point x="1053" y="547" type="line"/>
+      <point x="1118" y="939" type="line"/>
+      <point x="710" y="939" type="line"/>
+    </contour>
+  </outline>
+</glyph>

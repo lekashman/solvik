@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="glottalstopbarinv" format="2">
+  <advance width="1117"/>
+  <unicode hex="01BE"/>
+  <outline>
+    <contour>
+      <point x="902" y="287" type="curve" smooth="yes"/>
+      <point x="902" y="156"/>
+      <point x="755" y="67"/>
+      <point x="565" y="67" type="curve" smooth="yes"/>
+      <point x="373" y="67"/>
+      <point x="222" y="181"/>
+      <point x="219" y="336" type="curve"/>
+      <point x="118" y="336" type="line"/>
+      <point x="118" y="153"/>
+      <point x="292" y="-19"/>
+      <point x="563" y="-19" type="curve" smooth="yes"/>
+      <point x="814" y="-19"/>
+      <point x="1004" y="107"/>
+      <point x="1004" y="293" type="curve" smooth="yes"/>
+      <point x="1004" y="568"/>
+      <point x="590" y="525"/>
+      <point x="588" y="807" type="curve" smooth="yes"/>
+      <point x="588" y="991" type="line"/>
+      <point x="843" y="991" type="line"/>
+      <point x="843" y="1074" type="line"/>
+      <point x="588" y="1074" type="line"/>
+      <point x="588" y="1337" type="line"/>
+      <point x="487" y="1337" type="line"/>
+      <point x="487" y="1074" type="line"/>
+      <point x="236" y="1074" type="line"/>
+      <point x="236" y="991" type="line"/>
+      <point x="487" y="991" type="line"/>
+      <point x="487" y="806" type="line" smooth="yes"/>
+      <point x="487" y="480"/>
+      <point x="902" y="508"/>
+    </contour>
+  </outline>
+</glyph>

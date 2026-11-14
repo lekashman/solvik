@@ -1,0 +1,35 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="two.tf" format="2">
+  <advance width="1413"/>
+  <anchor x="849" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="73" y="0" type="line"/>
+      <point x="1142" y="0" type="line"/>
+      <point x="1181" y="235" type="line"/>
+      <point x="496" y="235" type="line"/>
+      <point x="495" y="230" type="line"/>
+      <point x="818" y="493" type="line" smooth="yes"/>
+      <point x="1151" y="752"/>
+      <point x="1268" y="905"/>
+      <point x="1296" y="1070" type="curve" smooth="yes"/>
+      <point x="1338" y="1318"/>
+      <point x="1132" y="1510"/>
+      <point x="828" y="1510" type="curve" smooth="yes"/>
+      <point x="529" y="1510"/>
+      <point x="281" y="1303"/>
+      <point x="236" y="1029" type="curve"/>
+      <point x="490" y="1029" type="line"/>
+      <point x="514" y="1175"/>
+      <point x="663" y="1276"/>
+      <point x="814" y="1276" type="curve" smooth="yes"/>
+      <point x="955" y="1276"/>
+      <point x="1062" y="1196"/>
+      <point x="1041" y="1062" type="curve" smooth="yes"/>
+      <point x="1020" y="938"/>
+      <point x="910" y="845"/>
+      <point x="738" y="705" type="curve" smooth="yes"/>
+      <point x="107" y="205" type="line"/>
+    </contour>
+  </outline>
+</glyph>

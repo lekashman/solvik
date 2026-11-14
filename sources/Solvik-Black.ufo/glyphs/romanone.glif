@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romanone" format="2">
+  <advance width="599"/>
+  <unicode hex="2160"/>
+  <anchor x="298" y="0" name="Anchor-0"/>
+  <anchor x="506" y="0" name="Anchor-3"/>
+  <anchor x="302" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="502" y="1490" type="line"/>
+      <point x="98" y="1490" type="line"/>
+      <point x="98" y="0" type="line"/>
+      <point x="502" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

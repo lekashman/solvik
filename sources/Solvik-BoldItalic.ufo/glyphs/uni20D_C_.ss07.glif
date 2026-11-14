@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20DC.ss07" format="2">
+  <outline>
+    <contour>
+      <point x="298" y="1240" type="line"/>
+      <point x="626" y="1240" type="line"/>
+      <point x="682" y="1575" type="line"/>
+      <point x="353" y="1575" type="line"/>
+    </contour>
+    <contour>
+      <point x="1002" y="1240" type="line"/>
+      <point x="1331" y="1240" type="line"/>
+      <point x="1386" y="1575" type="line"/>
+      <point x="1058" y="1575" type="line"/>
+    </contour>
+    <contour>
+      <point x="1707" y="1240" type="line"/>
+      <point x="2035" y="1240" type="line"/>
+      <point x="2091" y="1575" type="line"/>
+      <point x="1762" y="1575" type="line"/>
+    </contour>
+    <contour>
+      <point x="2411" y="1240" type="line"/>
+      <point x="2740" y="1240" type="line"/>
+      <point x="2795" y="1575" type="line"/>
+      <point x="2467" y="1575" type="line"/>
+    </contour>
+  </outline>
+</glyph>

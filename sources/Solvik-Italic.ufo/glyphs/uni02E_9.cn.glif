@@ -1,0 +1,15 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni02E9.cn" format="2">
+  <advance width="769"/>
+  <unicode hex="02E9"/>
+  <outline>
+    <contour>
+      <point x="769" y="1458" type="line"/>
+      <point x="560" y="1458" type="line"/>
+      <point x="346" y="166" type="line"/>
+      <point x="73" y="166" type="line"/>
+      <point x="46" y="0" type="line"/>
+      <point x="529" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

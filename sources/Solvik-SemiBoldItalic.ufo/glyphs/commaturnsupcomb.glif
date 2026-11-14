@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commaturnsupcomb" format="2">
+  <advance width="18"/>
+  <anchor x="-458" y="1684" name="Anchor-2"/>
+  <outline>
+    <contour>
+      <point x="-694" y="982" type="line"/>
+      <point x="-460" y="982" type="line"/>
+      <point x="-425" y="1183" type="line" smooth="yes"/>
+      <point x="-404" y="1303"/>
+      <point x="-346" y="1413"/>
+      <point x="-277" y="1501" type="curve"/>
+      <point x="-406" y="1580" type="line"/>
+      <point x="-530" y="1486"/>
+      <point x="-637" y="1319"/>
+      <point x="-660" y="1182" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

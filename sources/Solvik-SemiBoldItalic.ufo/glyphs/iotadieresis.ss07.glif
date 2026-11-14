@@ -1,0 +1,37 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="iotadieresis.ss07" format="2">
+  <advance width="631"/>
+  <anchor x="435" y="1524" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="365" y="-7" type="curve" smooth="yes"/>
+      <point x="416" y="-7"/>
+      <point x="460" y="-1"/>
+      <point x="494" y="7" type="curve"/>
+      <point x="531" y="228" type="line"/>
+      <point x="503" y="215"/>
+      <point x="500" y="217"/>
+      <point x="445" y="217" type="curve" smooth="yes"/>
+      <point x="379" y="217"/>
+      <point x="352" y="246"/>
+      <point x="365" y="322" type="curve" smooth="yes"/>
+      <point x="496" y="1118" type="line"/>
+      <point x="236" y="1118" type="line"/>
+      <point x="98" y="280" type="line" smooth="yes"/>
+      <point x="69" y="105"/>
+      <point x="157" y="-7"/>
+    </contour>
+    <contour>
+      <point x="501" y="1264" type="line"/>
+      <point x="741" y="1264" type="line"/>
+      <point x="785" y="1525" type="line"/>
+      <point x="545" y="1525" type="line"/>
+    </contour>
+    <contour>
+      <point x="43" y="1264" type="line"/>
+      <point x="283" y="1264" type="line"/>
+      <point x="326" y="1525" type="line"/>
+      <point x="86" y="1525" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acute_compact" format="2">
+  <advance width="645"/>
+  <anchor x="239" y="1558" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="169" y="1282" type="line"/>
+      <point x="282" y="1282" type="line"/>
+      <point x="477" y="1558" type="line"/>
+      <point x="321" y="1558" type="line"/>
+    </contour>
+  </outline>
+</glyph>

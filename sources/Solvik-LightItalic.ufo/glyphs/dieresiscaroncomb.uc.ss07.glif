@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresiscaroncomb.uc.ss07" format="2">
+  <advance width="1223"/>
+  <outline>
+    <contour>
+      <point x="716" y="2263" type="line"/>
+      <point x="580" y="2263" type="line"/>
+      <point x="578" y="2254" type="line"/>
+      <point x="790" y="1985" type="line"/>
+      <point x="909" y="1985" type="line"/>
+      <point x="1212" y="2254" type="line"/>
+      <point x="1214" y="2263" type="line"/>
+      <point x="1075" y="2263" type="line"/>
+      <point x="864" y="2068" type="line"/>
+    </contour>
+    <contour>
+      <point x="936" y="1680" type="line"/>
+      <point x="1089" y="1680" type="line"/>
+      <point x="1118" y="1849" type="line"/>
+      <point x="965" y="1849" type="line"/>
+    </contour>
+    <contour>
+      <point x="501" y="1680" type="line"/>
+      <point x="654" y="1680" type="line"/>
+      <point x="682" y="1849" type="line"/>
+      <point x="529" y="1849" type="line"/>
+    </contour>
+  </outline>
+</glyph>

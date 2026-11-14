@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="macrondieresiscomb.cn.ss07" format="2">
+  <advance width="840"/>
+  <outline>
+    <contour>
+      <point x="886" y="1880" type="line"/>
+      <point x="283" y="1880" type="line"/>
+      <point x="242" y="1636" type="line"/>
+      <point x="845" y="1636" type="line"/>
+    </contour>
+    <contour>
+      <point x="249" y="1994" type="line"/>
+      <point x="569" y="1994" type="line"/>
+      <point x="627" y="2270" type="line"/>
+      <point x="307" y="2270" type="line"/>
+    </contour>
+    <contour>
+      <point x="719" y="1994" type="line"/>
+      <point x="1039" y="1994" type="line"/>
+      <point x="1097" y="2270" type="line"/>
+      <point x="776" y="2270" type="line"/>
+    </contour>
+  </outline>
+</glyph>

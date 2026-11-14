@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni20E8.ss07" format="2">
+  <outline>
+    <contour>
+      <point x="721" y="-459" type="line"/>
+      <point x="1050" y="-459" type="line"/>
+      <point x="1105" y="-124" type="line"/>
+      <point x="777" y="-124" type="line"/>
+    </contour>
+    <contour>
+      <point x="1424" y="-459" type="line"/>
+      <point x="1753" y="-459" type="line"/>
+      <point x="1809" y="-124" type="line"/>
+      <point x="1480" y="-124" type="line"/>
+    </contour>
+    <contour>
+      <point x="17" y="-459" type="line"/>
+      <point x="345" y="-459" type="line"/>
+      <point x="401" y="-124" type="line"/>
+      <point x="72" y="-124" type="line"/>
+    </contour>
+  </outline>
+</glyph>

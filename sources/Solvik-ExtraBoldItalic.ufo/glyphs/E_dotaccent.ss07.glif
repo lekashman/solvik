@@ -1,0 +1,30 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Edotaccent.ss07" format="2">
+  <advance width="1278"/>
+  <anchor x="545" y="0" name="Anchor-0"/>
+  <anchor x="547" y="0" name="Anchor-1"/>
+  <anchor x="1067" y="0" name="Anchor-3"/>
+  <anchor x="867" y="1935" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="23" y="0" type="line"/>
+      <point x="1064" y="0" type="line"/>
+      <point x="1115" y="301" type="line"/>
+      <point x="426" y="301" type="line"/>
+      <point x="476" y="602" type="line"/>
+      <point x="1110" y="602" type="line"/>
+      <point x="1159" y="898" type="line"/>
+      <point x="525" y="898" type="line"/>
+      <point x="572" y="1184" type="line"/>
+      <point x="1263" y="1184" type="line"/>
+      <point x="1312" y="1490" type="line"/>
+      <point x="270" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="638" y="1619" type="line"/>
+      <point x="990" y="1619" type="line"/>
+      <point x="1044" y="1935" type="line"/>
+      <point x="690" y="1935" type="line"/>
+    </contour>
+  </outline>
+</glyph>

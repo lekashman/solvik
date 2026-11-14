@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="hturnlthook" format="2">
+  <advance width="1426"/>
+  <unicode hex="02AE"/>
+  <outline>
+    <contour>
+      <point x="1026" y="-426" type="line"/>
+      <point x="1283" y="-426" type="line"/>
+      <point x="1283" y="1118" type="line"/>
+      <point x="1022" y="1118" type="line"/>
+      <point x="1022" y="464" type="line" smooth="yes"/>
+      <point x="1022" y="313"/>
+      <point x="904" y="219"/>
+      <point x="764" y="219" type="curve" smooth="yes"/>
+      <point x="628" y="219"/>
+      <point x="525" y="308"/>
+      <point x="525" y="449" type="curve" smooth="yes"/>
+      <point x="525" y="796" type="line" smooth="yes"/>
+      <point x="525" y="1025"/>
+      <point x="356" y="1132"/>
+      <point x="162" y="1132" type="curve" smooth="yes"/>
+      <point x="96" y="1132"/>
+      <point x="59" y="1130"/>
+      <point x="24" y="1122" type="curve"/>
+      <point x="24" y="907" type="line"/>
+      <point x="45" y="910"/>
+      <point x="65" y="911"/>
+      <point x="89" y="911" type="curve" smooth="yes"/>
+      <point x="173" y="911"/>
+      <point x="266" y="887"/>
+      <point x="266" y="796" type="curve" smooth="yes"/>
+      <point x="266" y="409" type="line" smooth="yes"/>
+      <point x="266" y="157"/>
+      <point x="432" y="-14"/>
+      <point x="663" y="-14" type="curve" smooth="yes"/>
+      <point x="823" y="-14"/>
+      <point x="957" y="95"/>
+      <point x="1026" y="237" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="equal.dnom" format="2">
+  <advance width="826"/>
+  <outline>
+    <contour>
+      <point x="43" y="171" type="line"/>
+      <point x="653" y="171" type="line"/>
+      <point x="686" y="372" type="line"/>
+      <point x="76" y="372" type="line"/>
+    </contour>
+    <contour>
+      <point x="91" y="458" type="line"/>
+      <point x="700" y="458" type="line"/>
+      <point x="733" y="658" type="line"/>
+      <point x="124" y="658" type="line"/>
+    </contour>
+  </outline>
+</glyph>

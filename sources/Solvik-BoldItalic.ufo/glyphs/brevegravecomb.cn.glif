@@ -1,0 +1,29 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="brevegravecomb.cn" format="2">
+  <advance width="905"/>
+  <anchor x="672" y="1892" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="559" y="1208" type="curve" smooth="yes"/>
+      <point x="751" y="1208"/>
+      <point x="936" y="1365"/>
+      <point x="965" y="1539" type="curve"/>
+      <point x="794" y="1539" type="line"/>
+      <point x="780" y="1455"/>
+      <point x="684" y="1393"/>
+      <point x="589" y="1393" type="curve" smooth="yes"/>
+      <point x="495" y="1393"/>
+      <point x="422" y="1455"/>
+      <point x="436" y="1539" type="curve"/>
+      <point x="264" y="1539" type="line"/>
+      <point x="235" y="1366"/>
+      <point x="368" y="1208"/>
+    </contour>
+    <contour>
+      <point x="722" y="1604" type="line"/>
+      <point x="632" y="1892" type="line"/>
+      <point x="384" y="1892" type="line"/>
+      <point x="539" y="1604" type="line"/>
+    </contour>
+  </outline>
+</glyph>

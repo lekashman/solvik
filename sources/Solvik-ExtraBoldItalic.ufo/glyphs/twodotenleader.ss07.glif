@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="twodotenleader.ss07" format="2">
+  <advance width="1470"/>
+  <outline>
+    <contour>
+      <point x="87" y="0" type="line"/>
+      <point x="454" y="0" type="line"/>
+      <point x="514" y="360" type="line"/>
+      <point x="147" y="360" type="line"/>
+    </contour>
+    <contour>
+      <point x="826" y="0" type="line"/>
+      <point x="1193" y="0" type="line"/>
+      <point x="1253" y="360" type="line"/>
+      <point x="886" y="360" type="line"/>
+    </contour>
+  </outline>
+</glyph>

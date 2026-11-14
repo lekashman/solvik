@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romanfivehundred" format="2">
+  <advance width="1501"/>
+  <unicode hex="216E"/>
+  <anchor x="675" y="0" name="Anchor-0"/>
+  <anchor x="610" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="676" y="0" type="line" smooth="yes"/>
+      <point x="1116" y="0"/>
+      <point x="1422" y="307"/>
+      <point x="1422" y="742" type="curve" smooth="yes"/>
+      <point x="1422" y="1178"/>
+      <point x="1116" y="1490"/>
+      <point x="676" y="1490" type="curve" smooth="yes"/>
+      <point x="119" y="1490" type="line"/>
+      <point x="119" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="472" y="315" type="line"/>
+      <point x="472" y="1170" type="line"/>
+      <point x="655" y="1170" type="line" smooth="yes"/>
+      <point x="909" y="1170"/>
+      <point x="1069" y="1044"/>
+      <point x="1069" y="742" type="curve" smooth="yes"/>
+      <point x="1069" y="440"/>
+      <point x="910" y="315"/>
+      <point x="660" y="315" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

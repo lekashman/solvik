@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="l.sc" format="2">
+  <advance width="894"/>
+  <unicode hex="029F"/>
+  <anchor x="430" y="0" name="Anchor-0"/>
+  <anchor x="334" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="81" y="0" type="line"/>
+      <point x="781" y="0" type="line"/>
+      <point x="800" y="117" type="line"/>
+      <point x="236" y="117" type="line"/>
+      <point x="402" y="1118" type="line"/>
+      <point x="266" y="1118" type="line"/>
+    </contour>
+  </outline>
+</glyph>

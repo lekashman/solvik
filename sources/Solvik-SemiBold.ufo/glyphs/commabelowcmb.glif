@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="commabelowcmb" format="2">
+  <unicode hex="0326"/>
+  <anchor x="-634" y="0" name="_Anchor-0"/>
+  <outline>
+    <contour>
+      <point x="-534" y="-144" type="line"/>
+      <point x="-733" y="-144" type="line"/>
+      <point x="-733" y="-235" type="line" smooth="yes"/>
+      <point x="-733" y="-334"/>
+      <point x="-780" y="-415"/>
+      <point x="-829" y="-489" type="curve"/>
+      <point x="-687" y="-566" type="line"/>
+      <point x="-595" y="-483"/>
+      <point x="-534" y="-342"/>
+      <point x="-534" y="-223" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

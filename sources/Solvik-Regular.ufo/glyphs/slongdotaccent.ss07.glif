@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="slongdotaccent.ss07" format="2">
+  <advance width="672"/>
+  <anchor x="255" y="0" name="Anchor-0"/>
+  <anchor x="338" y="1924" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="165" y="0" type="line"/>
+      <point x="345" y="0" type="line"/>
+      <point x="345" y="1227" type="line" smooth="yes"/>
+      <point x="345" y="1330"/>
+      <point x="409" y="1393"/>
+      <point x="522" y="1393" type="curve" smooth="yes"/>
+      <point x="601" y="1393"/>
+      <point x="625" y="1365"/>
+      <point x="647" y="1372" type="curve"/>
+      <point x="647" y="1541" type="line"/>
+      <point x="613" y="1551"/>
+      <point x="565" y="1560"/>
+      <point x="500" y="1560" type="curve" smooth="yes"/>
+      <point x="326" y="1560"/>
+      <point x="165" y="1451"/>
+      <point x="165" y="1267" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="240" y="1728" type="line"/>
+      <point x="437" y="1728" type="line"/>
+      <point x="437" y="1924" type="line"/>
+      <point x="240" y="1924" type="line"/>
+    </contour>
+  </outline>
+</glyph>

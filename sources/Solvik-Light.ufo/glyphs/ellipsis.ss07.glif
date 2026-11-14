@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="ellipsis.ss07" format="2">
+  <advance width="1804"/>
+  <outline>
+    <contour>
+      <point x="200" y="0" type="line"/>
+      <point x="389" y="0" type="line"/>
+      <point x="389" y="185" type="line"/>
+      <point x="200" y="185" type="line"/>
+    </contour>
+    <contour>
+      <point x="808" y="0" type="line"/>
+      <point x="996" y="0" type="line"/>
+      <point x="996" y="185" type="line"/>
+      <point x="808" y="185" type="line"/>
+    </contour>
+    <contour>
+      <point x="1415" y="0" type="line"/>
+      <point x="1603" y="0" type="line"/>
+      <point x="1603" y="185" type="line"/>
+      <point x="1415" y="185" type="line"/>
+    </contour>
+  </outline>
+</glyph>

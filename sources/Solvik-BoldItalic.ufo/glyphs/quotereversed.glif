@@ -1,0 +1,13 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotereversed" format="2">
+  <advance width="734"/>
+  <unicode hex="201B"/>
+  <outline>
+    <contour>
+      <point x="611" y="854" type="line"/>
+      <point x="623" y="1490" type="line"/>
+      <point x="320" y="1490" type="line"/>
+      <point x="412" y="854" type="line"/>
+    </contour>
+  </outline>
+</glyph>

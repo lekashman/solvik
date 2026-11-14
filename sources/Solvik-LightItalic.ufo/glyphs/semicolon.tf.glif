@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="semicolon.tf" format="2">
+  <advance width="563"/>
+  <outline>
+    <contour>
+      <point x="-13" y="-339" type="line"/>
+      <point x="91" y="-339" type="line"/>
+      <point x="325" y="189" type="line"/>
+      <point x="170" y="189" type="line"/>
+    </contour>
+    <contour>
+      <point x="364" y="849" type="curve" smooth="yes"/>
+      <point x="420" y="849"/>
+      <point x="473" y="894"/>
+      <point x="480" y="950" type="curve" smooth="yes"/>
+      <point x="489" y="1010"/>
+      <point x="445" y="1064"/>
+      <point x="381" y="1064" type="curve" smooth="yes"/>
+      <point x="326" y="1064"/>
+      <point x="274" y="1021"/>
+      <point x="265" y="966" type="curve" smooth="yes"/>
+      <point x="254" y="901"/>
+      <point x="299" y="849"/>
+    </contour>
+  </outline>
+</glyph>

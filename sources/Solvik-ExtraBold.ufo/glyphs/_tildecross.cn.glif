@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="_tildecross.cn" format="2">
+  <advance width="935"/>
+  <outline>
+    <contour>
+      <point x="642" y="633" type="curve" smooth="yes"/>
+      <point x="798" y="633"/>
+      <point x="915" y="760"/>
+      <point x="919" y="935" type="curve"/>
+      <point x="706" y="935" type="line"/>
+      <point x="702" y="872"/>
+      <point x="671" y="833"/>
+      <point x="611" y="833" type="curve" smooth="yes"/>
+      <point x="529" y="833"/>
+      <point x="452" y="940"/>
+      <point x="290" y="940" type="curve" smooth="yes"/>
+      <point x="130" y="940"/>
+      <point x="17" y="816"/>
+      <point x="13" y="640" type="curve"/>
+      <point x="228" y="640" type="line"/>
+      <point x="231" y="700"/>
+      <point x="266" y="742"/>
+      <point x="320" y="742" type="curve" smooth="yes"/>
+      <point x="404" y="742"/>
+      <point x="478" y="633"/>
+    </contour>
+  </outline>
+</glyph>

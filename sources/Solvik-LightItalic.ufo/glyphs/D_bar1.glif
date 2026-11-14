@@ -1,0 +1,39 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Dbar1" format="2">
+  <advance width="1640"/>
+  <unicode hex="0189"/>
+  <anchor x="609" y="0" name="Anchor-0"/>
+  <anchor x="865" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="659" y="0" type="line" smooth="yes"/>
+      <point x="1138" y="0"/>
+      <point x="1472" y="300"/>
+      <point x="1547" y="747" type="curve" smooth="yes"/>
+      <point x="1620" y="1188"/>
+      <point x="1351" y="1490"/>
+      <point x="892" y="1490" type="curve" smooth="yes"/>
+      <point x="392" y="1490" type="line"/>
+      <point x="279" y="804" type="line"/>
+      <point x="69" y="804" type="line"/>
+      <point x="50" y="686" type="line"/>
+      <point x="259" y="686" type="line"/>
+      <point x="145" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="804" type="line"/>
+      <point x="514" y="1363" type="line"/>
+      <point x="881" y="1363" type="line" smooth="yes"/>
+      <point x="1267" y="1363"/>
+      <point x="1468" y="1114"/>
+      <point x="1408" y="749" type="curve" smooth="yes"/>
+      <point x="1347" y="381"/>
+      <point x="1053" y="127"/>
+      <point x="642" y="127" type="curve" smooth="yes"/>
+      <point x="309" y="127" type="line"/>
+      <point x="402" y="686" type="line"/>
+      <point x="838" y="686" type="line"/>
+      <point x="857" y="804" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,16 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright.sups" format="2">
+  <advance width="502"/>
+  <outline>
+    <contour>
+      <point x="106" y="766" type="line"/>
+      <point x="327" y="766" type="line"/>
+      <point x="327" y="1743" type="line"/>
+      <point x="106" y="1743" type="line"/>
+      <point x="106" y="1672" type="line"/>
+      <point x="242" y="1672" type="line"/>
+      <point x="242" y="836" type="line"/>
+      <point x="106" y="836" type="line"/>
+    </contour>
+  </outline>
+</glyph>

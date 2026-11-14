@@ -1,0 +1,54 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="edieresis.ss07" format="2">
+  <advance width="1269"/>
+  <anchor x="541" y="0" name="Anchor-0"/>
+  <anchor x="544" y="0" name="Anchor-1"/>
+  <anchor x="1124" y="277" name="Anchor-3"/>
+  <anchor x="793" y="1524" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="575" y="-23" type="curve" smooth="yes"/>
+      <point x="841" y="-23"/>
+      <point x="1053" y="121"/>
+      <point x="1133" y="313" type="curve"/>
+      <point x="865" y="313" type="line"/>
+      <point x="809" y="235"/>
+      <point x="692" y="194"/>
+      <point x="585" y="194" type="curve" smooth="yes"/>
+      <point x="414" y="194"/>
+      <point x="304" y="293"/>
+      <point x="328" y="479" type="curve"/>
+      <point x="1166" y="479" type="line"/>
+      <point x="1181" y="568" type="line" smooth="yes"/>
+      <point x="1241" y="935"/>
+      <point x="1013" y="1132"/>
+      <point x="719" y="1132" type="curve" smooth="yes"/>
+      <point x="392" y="1132"/>
+      <point x="134" y="874"/>
+      <point x="81" y="552" type="curve" smooth="yes"/>
+      <point x="27" y="224"/>
+      <point x="230" y="-23"/>
+    </contour>
+    <contour>
+      <point x="363" y="669" type="line"/>
+      <point x="400" y="816"/>
+      <point x="551" y="915"/>
+      <point x="713" y="915" type="curve" smooth="yes"/>
+      <point x="872" y="915"/>
+      <point x="955" y="819"/>
+      <point x="945" y="669" type="curve"/>
+    </contour>
+    <contour>
+      <point x="396" y="1264" type="line"/>
+      <point x="636" y="1264" type="line"/>
+      <point x="679" y="1525" type="line"/>
+      <point x="439" y="1525" type="line"/>
+    </contour>
+    <contour>
+      <point x="865" y="1264" type="line"/>
+      <point x="1104" y="1264" type="line"/>
+      <point x="1147" y="1525" type="line"/>
+      <point x="908" y="1525" type="line"/>
+    </contour>
+  </outline>
+</glyph>

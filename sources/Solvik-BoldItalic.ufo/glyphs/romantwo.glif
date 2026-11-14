@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romantwo" format="2">
+  <advance width="1175"/>
+  <unicode hex="2161"/>
+  <outline>
+    <contour>
+      <point x="1188" y="1490" type="line"/>
+      <point x="882" y="1490" type="line"/>
+      <point x="635" y="0" type="line"/>
+      <point x="941" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="596" y="1490" type="line"/>
+      <point x="291" y="1490" type="line"/>
+      <point x="44" y="0" type="line"/>
+      <point x="349" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

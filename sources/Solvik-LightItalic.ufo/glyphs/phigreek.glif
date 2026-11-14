@@ -1,0 +1,46 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="phigreek" format="2">
+  <advance width="1424"/>
+  <unicode hex="03D5"/>
+  <outline>
+    <contour>
+      <point x="547" y="-24" type="curve"/>
+      <point x="482" y="-418" type="line"/>
+      <point x="614" y="-418" type="line"/>
+      <point x="680" y="-24" type="line"/>
+      <point x="989" y="-24"/>
+      <point x="1259" y="232"/>
+      <point x="1312" y="556" type="curve" smooth="yes"/>
+      <point x="1364" y="880"/>
+      <point x="1178" y="1132"/>
+      <point x="871" y="1133" type="curve"/>
+      <point x="930" y="1491" type="line"/>
+      <point x="798" y="1491" type="line"/>
+      <point x="739" y="1133" type="line"/>
+      <point x="732" y="1133" type="line" smooth="yes"/>
+      <point x="425" y="1133"/>
+      <point x="160" y="880"/>
+      <point x="106" y="553" type="curve" smooth="yes"/>
+      <point x="53" y="230"/>
+      <point x="239" y="-24"/>
+    </contour>
+    <contour>
+      <point x="568" y="99" type="line"/>
+      <point x="332" y="99"/>
+      <point x="203" y="315"/>
+      <point x="243" y="552" type="curve" smooth="yes"/>
+      <point x="283" y="789"/>
+      <point x="481" y="1010"/>
+      <point x="718" y="1010" type="curve"/>
+    </contour>
+    <contour>
+      <point x="851" y="1010" type="line"/>
+      <point x="1087" y="1010"/>
+      <point x="1214" y="793"/>
+      <point x="1174" y="557" type="curve" smooth="yes"/>
+      <point x="1135" y="320"/>
+      <point x="937" y="99"/>
+      <point x="700" y="99" type="curve"/>
+    </contour>
+  </outline>
+</glyph>

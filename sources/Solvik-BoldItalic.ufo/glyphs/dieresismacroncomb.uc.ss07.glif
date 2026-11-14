@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresismacroncomb.uc.ss07" format="2">
+  <advance width="1304"/>
+  <outline>
+    <contour>
+      <point x="1223" y="2194" type="line"/>
+      <point x="636" y="2194" type="line"/>
+      <point x="599" y="2014" type="line"/>
+      <point x="1187" y="2014" type="line"/>
+    </contour>
+    <contour>
+      <point x="913" y="1627" type="line"/>
+      <point x="1176" y="1627" type="line"/>
+      <point x="1226" y="1880" type="line"/>
+      <point x="963" y="1880" type="line"/>
+    </contour>
+    <contour>
+      <point x="458" y="1627" type="line"/>
+      <point x="721" y="1627" type="line"/>
+      <point x="769" y="1880" type="line"/>
+      <point x="506" y="1880" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romanfifty" format="2">
+  <advance width="1189"/>
+  <unicode hex="216C"/>
+  <anchor x="532" y="0" name="Anchor-0"/>
+  <anchor x="438" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="59" y="0" type="line"/>
+      <point x="1007" y="0" type="line"/>
+      <point x="1046" y="237" type="line"/>
+      <point x="365" y="237" type="line"/>
+      <point x="573" y="1490" type="line"/>
+      <point x="306" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

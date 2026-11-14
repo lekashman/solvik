@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="lessequal.tf" format="2">
+  <advance width="1364"/>
+  <outline>
+    <contour>
+      <point x="161" y="640" type="line"/>
+      <point x="1202" y="369" type="line"/>
+      <point x="1202" y="618" type="line"/>
+      <point x="517" y="779" type="line"/>
+      <point x="517" y="768" type="line"/>
+      <point x="1202" y="928" type="line"/>
+      <point x="1202" y="1179" type="line"/>
+      <point x="161" y="906" type="line"/>
+    </contour>
+    <contour>
+      <point x="1202" y="56" type="line"/>
+      <point x="1202" y="313" type="line"/>
+      <point x="161" y="313" type="line"/>
+      <point x="161" y="56" type="line"/>
+    </contour>
+  </outline>
+</glyph>

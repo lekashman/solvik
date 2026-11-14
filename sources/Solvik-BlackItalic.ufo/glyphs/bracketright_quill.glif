@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="bracketright_quill" format="2">
+  <advance width="801"/>
+  <unicode hex="2046"/>
+  <outline>
+    <contour>
+      <point x="-56" y="-285" type="line"/>
+      <point x="513" y="-285" type="line"/>
+      <point x="822" y="1581" type="line"/>
+      <point x="253" y="1581" type="line"/>
+      <point x="203" y="1277" type="line"/>
+      <point x="382" y="1277" type="line"/>
+      <point x="303" y="795" type="line"/>
+      <point x="123" y="795" type="line"/>
+      <point x="75" y="505" type="line"/>
+      <point x="254" y="505" type="line"/>
+      <point x="175" y="25" type="line"/>
+      <point x="-4" y="25" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,17 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="squaresubcomb" format="2">
+  <outline>
+    <contour>
+      <point x="-996" y="-488" type="line"/>
+      <point x="-578" y="-488" type="line"/>
+      <point x="-509" y="-82" type="line"/>
+      <point x="-928" y="-82" type="line"/>
+    </contour>
+    <contour>
+      <point x="-842" y="-193" type="line"/>
+      <point x="-642" y="-193" type="line"/>
+      <point x="-669" y="-376" type="line"/>
+      <point x="-869" y="-376" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni0268.ccmp" format="2">
+  <advance width="586"/>
+  <anchor x="295" y="0" name="Anchor-0"/>
+  <anchor x="471" y="0" name="Anchor-3"/>
+  <anchor x="292" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="118" y="0" type="line"/>
+      <point x="467" y="0" type="line"/>
+      <point x="467" y="500" type="line"/>
+      <point x="670" y="500" type="line"/>
+      <point x="670" y="712" type="line"/>
+      <point x="467" y="712" type="line"/>
+      <point x="467" y="1118" type="line"/>
+      <point x="118" y="1118" type="line"/>
+      <point x="118" y="712" type="line"/>
+      <point x="-90" y="712" type="line"/>
+      <point x="-90" y="500" type="line"/>
+      <point x="118" y="500" type="line"/>
+    </contour>
+  </outline>
+</glyph>

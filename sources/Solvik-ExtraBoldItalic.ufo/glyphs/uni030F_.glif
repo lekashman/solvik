@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni030F" format="2">
+  <unicode hex="030F"/>
+  <anchor x="820" y="1118" name="_Anchor-4"/>
+  <anchor x="896" y="1576" name="Anchor-5"/>
+  <anchor x="820" y="1118" name="_Anchor-5"/>
+  <outline>
+    <contour>
+      <point x="541" y="1240" type="line"/>
+      <point x="786" y="1240" type="line"/>
+      <point x="658" y="1576" type="line"/>
+      <point x="326" y="1576" type="line"/>
+    </contour>
+    <contour>
+      <point x="908" y="1240" type="line"/>
+      <point x="1144" y="1240" type="line"/>
+      <point x="1089" y="1576" type="line"/>
+      <point x="789" y="1576" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,41 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rrthook" format="2">
+  <advance width="850"/>
+  <anchor x="282" y="0" name="Anchor-0"/>
+  <anchor x="466" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="499" y="-446" type="curve" smooth="yes"/>
+      <point x="557" y="-446"/>
+      <point x="612" y="-439"/>
+      <point x="654" y="-428" type="curve"/>
+      <point x="654" y="-190" type="line"/>
+      <point x="623" y="-194"/>
+      <point x="596" y="-197"/>
+      <point x="567" y="-197" type="curve" smooth="yes"/>
+      <point x="476" y="-197"/>
+      <point x="431" y="-178"/>
+      <point x="431" y="-112" type="curve" smooth="yes"/>
+      <point x="431" y="635" type="line" smooth="yes"/>
+      <point x="431" y="764"/>
+      <point x="547" y="854"/>
+      <point x="682" y="854" type="curve" smooth="yes"/>
+      <point x="726" y="854"/>
+      <point x="784" y="849"/>
+      <point x="811" y="841" type="curve"/>
+      <point x="811" y="1124" type="line"/>
+      <point x="784" y="1130"/>
+      <point x="748" y="1133"/>
+      <point x="716" y="1133" type="curve" smooth="yes"/>
+      <point x="589" y="1133"/>
+      <point x="485" y="1055"/>
+      <point x="445" y="927" type="curve"/>
+      <point x="421" y="927" type="line"/>
+      <point x="421" y="1118" type="line"/>
+      <point x="131" y="1118" type="line"/>
+      <point x="131" y="-112" type="line" smooth="yes"/>
+      <point x="131" y="-317"/>
+      <point x="265" y="-446"/>
+    </contour>
+  </outline>
+</glyph>

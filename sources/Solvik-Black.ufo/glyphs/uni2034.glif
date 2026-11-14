@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni2034" format="2">
+  <advance width="1984"/>
+  <unicode hex="2034"/>
+  <outline>
+    <contour>
+      <point x="131" y="874" type="line"/>
+      <point x="396" y="874" type="line"/>
+      <point x="523" y="1490" type="line"/>
+      <point x="187" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="794" y="874" type="line"/>
+      <point x="1060" y="874" type="line"/>
+      <point x="1186" y="1490" type="line"/>
+      <point x="850" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="1458" y="874" type="line"/>
+      <point x="1723" y="874" type="line"/>
+      <point x="1850" y="1490" type="line"/>
+      <point x="1514" y="1490" type="line"/>
+    </contour>
+  </outline>
+</glyph>

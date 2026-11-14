@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="romannine" format="2">
+  <advance width="2111"/>
+  <unicode hex="2168"/>
+  <anchor x="427" y="0" name="Anchor-3"/>
+  <outline>
+    <contour>
+      <point x="631" y="0" type="line"/>
+      <point x="948" y="0" type="line"/>
+      <point x="1189" y="333" type="line" smooth="yes"/>
+      <point x="1261" y="433"/>
+      <point x="1301" y="503"/>
+      <point x="1344" y="580" type="curve"/>
+      <point x="1388" y="501"/>
+      <point x="1428" y="433"/>
+      <point x="1497" y="333" type="curve" smooth="yes"/>
+      <point x="1733" y="0" type="line"/>
+      <point x="2056" y="0" type="line"/>
+      <point x="1506" y="768" type="line"/>
+      <point x="2016" y="1490" type="line"/>
+      <point x="1705" y="1490" type="line"/>
+      <point x="1513" y="1215" type="line" smooth="yes"/>
+      <point x="1438" y="1107"/>
+      <point x="1392" y="1020"/>
+      <point x="1347" y="935" type="curve"/>
+      <point x="1302" y="1020"/>
+      <point x="1258" y="1106"/>
+      <point x="1184" y="1215" type="curve" smooth="yes"/>
+      <point x="995" y="1490" type="line"/>
+      <point x="675" y="1490" type="line"/>
+      <point x="1190" y="759" type="line"/>
+    </contour>
+    <contour>
+      <point x="422" y="1490" type="line"/>
+      <point x="155" y="1490" type="line"/>
+      <point x="155" y="0" type="line"/>
+      <point x="422" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

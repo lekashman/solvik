@@ -1,0 +1,28 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="uni204F.ss07" format="2">
+  <advance width="608"/>
+  <outline>
+    <contour>
+      <point x="421" y="-273" type="line"/>
+      <point x="421" y="-176" type="line"/>
+      <point x="396" y="-176" type="line" smooth="yes"/>
+      <point x="333" y="-176"/>
+      <point x="294" y="-113"/>
+      <point x="294" y="-39" type="curve" smooth="yes"/>
+      <point x="294" y="0" type="line"/>
+      <point x="421" y="0" type="line"/>
+      <point x="421" y="232" type="line"/>
+      <point x="185" y="232" type="line"/>
+      <point x="185" y="-31" type="line" smooth="yes"/>
+      <point x="185" y="-174"/>
+      <point x="269" y="-273"/>
+      <point x="396" y="-273" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="421" y="823" type="line"/>
+      <point x="421" y="1055" type="line"/>
+      <point x="185" y="1055" type="line"/>
+      <point x="185" y="823" type="line"/>
+    </contour>
+  </outline>
+</glyph>

@@ -1,0 +1,19 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="pipedbl" format="2">
+  <advance width="700"/>
+  <unicode hex="01C1"/>
+  <outline>
+    <contour>
+      <point x="479" y="1507" type="line"/>
+      <point x="393" y="1507" type="line"/>
+      <point x="393" y="0" type="line"/>
+      <point x="479" y="0" type="line"/>
+    </contour>
+    <contour>
+      <point x="191" y="1507" type="line"/>
+      <point x="105" y="1507" type="line"/>
+      <point x="105" y="0" type="line"/>
+      <point x="191" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

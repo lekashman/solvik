@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="Rho" format="2">
+  <advance width="1283"/>
+  <unicode hex="03A1"/>
+  <anchor x="654" y="1490" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="215" y="0" type="line"/>
+      <point x="309" y="0" type="line"/>
+      <point x="309" y="593" type="line"/>
+      <point x="689" y="593" type="line" smooth="yes"/>
+      <point x="964" y="593"/>
+      <point x="1154" y="789"/>
+      <point x="1154" y="1041" type="curve" smooth="yes"/>
+      <point x="1154" y="1293"/>
+      <point x="964" y="1490"/>
+      <point x="689" y="1490" type="curve" smooth="yes"/>
+      <point x="215" y="1490" type="line"/>
+    </contour>
+    <contour>
+      <point x="309" y="679" type="line"/>
+      <point x="309" y="1404" type="line"/>
+      <point x="685" y="1404" type="line" smooth="yes"/>
+      <point x="908" y="1404"/>
+      <point x="1059" y="1245"/>
+      <point x="1059" y="1041" type="curve" smooth="yes"/>
+      <point x="1059" y="838"/>
+      <point x="908" y="679"/>
+      <point x="686" y="679" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

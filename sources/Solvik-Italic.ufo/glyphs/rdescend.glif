@@ -1,0 +1,33 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="rdescend" format="2">
+  <advance width="801"/>
+  <anchor x="160" y="0" name="Anchor-0"/>
+  <anchor x="533" y="1118" name="Anchor-4"/>
+  <outline>
+    <contour>
+      <point x="-1" y="-418" type="line"/>
+      <point x="171" y="-418" type="line"/>
+      <point x="241" y="0" type="line"/>
+      <point x="251" y="0" type="line"/>
+      <point x="367" y="700" type="line" smooth="yes"/>
+      <point x="392" y="851"/>
+      <point x="546" y="960"/>
+      <point x="706" y="960" type="curve" smooth="yes"/>
+      <point x="749" y="960"/>
+      <point x="796" y="954"/>
+      <point x="813" y="951" type="curve"/>
+      <point x="843" y="1131" type="line"/>
+      <point x="821" y="1132"/>
+      <point x="780" y="1134"/>
+      <point x="752" y="1134" type="curve" smooth="yes"/>
+      <point x="620" y="1134"/>
+      <point x="483" y="1059"/>
+      <point x="422" y="946" type="curve"/>
+      <point x="402" y="946" type="line"/>
+      <point x="430" y="1118" type="line"/>
+      <point x="256" y="1118" type="line"/>
+      <point x="71" y="0" type="line"/>
+      <point x="69" y="0" type="line"/>
+    </contour>
+  </outline>
+</glyph>

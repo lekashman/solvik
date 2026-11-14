@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="acutedblcomb" format="2">
+  <advance width="1062"/>
+  <outline>
+    <contour>
+      <point x="671" y="1264" type="line"/>
+      <point x="902" y="1558" type="line"/>
+      <point x="698" y="1558" type="line"/>
+      <point x="523" y="1264" type="line"/>
+    </contour>
+    <contour>
+      <point x="328" y="1264" type="line"/>
+      <point x="505" y="1558" type="line"/>
+      <point x="304" y="1558" type="line"/>
+      <point x="181" y="1264" type="line"/>
+    </contour>
+  </outline>
+</glyph>

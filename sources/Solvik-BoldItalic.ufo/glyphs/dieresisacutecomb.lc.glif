@@ -1,0 +1,40 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="dieresisacutecomb.lc" format="2">
+  <advance width="1310"/>
+  <outline>
+    <contour>
+      <point x="992" y="1225" type="curve" smooth="yes"/>
+      <point x="1077" y="1225"/>
+      <point x="1154" y="1301"/>
+      <point x="1168" y="1381" type="curve" smooth="yes"/>
+      <point x="1181" y="1461"/>
+      <point x="1129" y="1538"/>
+      <point x="1045" y="1538" type="curve" smooth="yes"/>
+      <point x="960" y="1538"/>
+      <point x="882" y="1461"/>
+      <point x="868" y="1381" type="curve" smooth="yes"/>
+      <point x="855" y="1301"/>
+      <point x="908" y="1225"/>
+    </contour>
+    <contour>
+      <point x="536" y="1225" type="curve" smooth="yes"/>
+      <point x="621" y="1225"/>
+      <point x="698" y="1301"/>
+      <point x="711" y="1381" type="curve" smooth="yes"/>
+      <point x="725" y="1461"/>
+      <point x="672" y="1538"/>
+      <point x="588" y="1538" type="curve" smooth="yes"/>
+      <point x="503" y="1538"/>
+      <point x="426" y="1461"/>
+      <point x="412" y="1381" type="curve" smooth="yes"/>
+      <point x="399" y="1301"/>
+      <point x="451" y="1225"/>
+    </contour>
+    <contour>
+      <point x="733" y="1603" type="line"/>
+      <point x="917" y="1603" type="line"/>
+      <point x="1169" y="1892" type="line"/>
+      <point x="919" y="1892" type="line"/>
+    </contour>
+  </outline>
+</glyph>

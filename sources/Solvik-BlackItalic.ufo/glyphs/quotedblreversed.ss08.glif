@@ -1,0 +1,38 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="quotedblreversed.ss08" format="2">
+  <advance width="1306"/>
+  <outline>
+    <contour>
+      <point x="577" y="744" type="line"/>
+      <point x="611" y="945" type="line"/>
+      <point x="560" y="945" type="line" smooth="yes"/>
+      <point x="456" y="945"/>
+      <point x="410" y="988"/>
+      <point x="427" y="1090" type="curve"/>
+      <point x="428" y="1094" type="line"/>
+      <point x="635" y="1094" type="line"/>
+      <point x="701" y="1490" type="line"/>
+      <point x="293" y="1490" type="line"/>
+      <point x="229" y="1108" type="line" smooth="yes"/>
+      <point x="192" y="880"/>
+      <point x="299" y="744"/>
+      <point x="535" y="744" type="curve" smooth="yes"/>
+    </contour>
+    <contour>
+      <point x="1192" y="744" type="line"/>
+      <point x="1226" y="945" type="line"/>
+      <point x="1176" y="945" type="line" smooth="yes"/>
+      <point x="1071" y="945"/>
+      <point x="1025" y="988"/>
+      <point x="1042" y="1090" type="curve"/>
+      <point x="1043" y="1094" type="line"/>
+      <point x="1251" y="1094" type="line"/>
+      <point x="1317" y="1490" type="line"/>
+      <point x="909" y="1490" type="line"/>
+      <point x="845" y="1108" type="line" smooth="yes"/>
+      <point x="807" y="880"/>
+      <point x="914" y="744"/>
+      <point x="1150" y="744" type="curve" smooth="yes"/>
+    </contour>
+  </outline>
+</glyph>

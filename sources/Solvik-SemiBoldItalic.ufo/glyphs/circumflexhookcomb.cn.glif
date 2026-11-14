@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<glyph name="circumflexhookcomb.cn" format="2">
+  <advance width="921"/>
+  <outline>
+    <contour>
+      <point x="418" y="1229" type="line"/>
+      <point x="603" y="1408" type="line"/>
+      <point x="726" y="1229" type="line"/>
+      <point x="958" y="1229" type="line"/>
+      <point x="961" y="1252" type="line"/>
+      <point x="727" y="1539" type="line"/>
+      <point x="521" y="1539" type="line"/>
+      <point x="192" y="1252" type="line"/>
+      <point x="189" y="1229" type="line"/>
+    </contour>
+    <contour>
+      <point x="930" y="1594" type="line"/>
+      <point x="999" y="1670" type="line" smooth="yes"/>
+      <point x="1088" y="1769"/>
+      <point x="1068" y="1892"/>
+      <point x="888" y="1892" type="curve" smooth="yes"/>
+      <point x="747" y="1892" type="line"/>
+      <point x="725" y="1747" type="line"/>
+      <point x="865" y="1747" type="line" smooth="yes"/>
+      <point x="883" y="1747"/>
+      <point x="894" y="1750"/>
+      <point x="881" y="1732" type="curve" smooth="yes"/>
+      <point x="780" y="1594" type="line"/>
+    </contour>
+  </outline>
+</glyph>
