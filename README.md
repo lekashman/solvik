@@ -2,11 +2,14 @@
 
 Solvik is a sans-serif family in seven weights (Extra Light, Light, Regular, SemiBold, Bold,
 Extra Bold, Black), each with an italic. It is derived from [Inter](https://github.com/rsms/inter)
-by Rasmus Andersson.
+by Rasmus Andersson and moves it toward the geometric end of the grotesque genre, with near-circular
+round letters and flat terminals. It covers Latin (including Vietnamese), Cyrillic and Greek.
 
-![Solvik overview: the name in Black, the seven weights with italics, and the character set](documentation/solvik-sample.png)
+![Solvik: the name, a sample line and the seven weights](documentation/solvik-760x506.png)
 
 ## Specimens
+
+![Solvik overview: the name in Black, the seven weights with italics, and the character set](documentation/solvik-sample.png)
 
 Seven weights, from ExtraLight to Black, each with an italic:
 
@@ -81,14 +84,22 @@ writes the fonts to `fonts/ttf`. `make test` checks them with
   derived from register their mark features for Latin only.
 - Characters: Latin (including extended), Cyrillic and Greek, as in Inter, plus U+030B.
 
+## Credits
+
+- Andrew Lekashman: author and maintainer of Solvik. <andrew@lekashman.com>
+- Rasmus Andersson: designer of [Inter](https://github.com/rsms/inter), the typeface Solvik is
+  derived from. Inter is copyright The Inter Project Authors.
+
+AI tools were used in the creation of this project.
+
 ## License
 
-This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is
-available with a FAQ at https://openfontlicense.org. See `OFL.txt`.
+This Font Software is licensed under the SIL Open Font License, Version 1.1. This license is in
+this repo, in `OFL.txt`, and is also available with a FAQ at: https://openfontlicense.org
 
 ## Changelog
 
-**1.040** First release built from UFO sources, with gftools builder. Weight 600 named SemiBold.
+**1.040** (November 2026) First release built from UFO sources, with gftools builder. Weight 600 named SemiBold.
 Added U+030B. Mark positioning extended to Cyrillic and Greek. Kerning added for
 pairs that touched, mostly with the long s and in the heavy weights. Private-use codepoints for alternates removed; the alternates remain available through
 their OpenType features.
