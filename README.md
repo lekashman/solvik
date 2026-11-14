@@ -1,5 +1,9 @@
 # Solvik
 
+Solvik is a sans-serif family in seven weights (Extra Light, Light, Regular, SemiBold, Bold,
+Extra Bold, Black), each with an italic. It is derived from [Inter](https://github.com/rsms/inter)
+by Rasmus Andersson.
+
 ![Solvik overview: the name in Black, the seven weights with italics, and the character set](documentation/solvik-sample.png)
 
 ## Specimens
@@ -8,7 +12,7 @@ Seven weights, from ExtraLight to Black, each with an italic:
 
 ![The seven weights of Solvik with their italics](documentation/solvik-weights.png)
 
-In an interface, with Regular and SemiBold at 13 to 16 px and Light for large numbers:
+In an interface, with Regular and SemiBold at 11 to 16 px and Light for large numbers:
 
 ![Solvik in a ferry timetable dashboard](documentation/solvik-interface.png)
 
@@ -29,19 +33,18 @@ Languages. Google Fonts' [shaperglot](https://github.com/googlefonts/shaperglot)
 The specimen pages are HTML files in `documentation/specimens`. Open one in a browser to see the
 fonts live, or run `sh scripts/render-specimens.sh` to render them to the images above.
 
-Solvik is a sans-serif family in seven weights (Extra Light, Light, Regular, SemiBold, Bold,
-Extra Bold, Black), each with an italic. It is derived from [Inter](https://github.com/rsms/inter)
-by Rasmus Andersson.
-
 ## How it differs from Inter
 
 - Round letters are widened so the o is close to a circle in every weight; stroke weight is unchanged.
 - Terminals are cut flat.
 - Horizontal strokes are held closer to the verticals in SemiBold and heavier.
 - Italic a, e and f are the upright letters slanted, not Inter's cursive forms.
-- Figures are wider; straight-sided capitals are slightly narrower.
-- Spacing and kerning are rebuilt for the new shapes, with a minimum gap between any two Latin
-  letters, figures or punctuation marks.
+- Figures are wider, by about 8% in Regular. Straight-sided letters are about 2% wider. Both
+  differences shrink toward Black, where they are about 1%.
+- Spacing and kerning are rebuilt for the new shapes. Kerning adds a small gap where two Latin
+  letters, figures or punctuation marks would otherwise collide. Some pairs still touch, at most 56
+  of about 110,000 in any one style: most involve the long s (U+017F), and the rest are pairs such
+  as `(î` and `&j` in the heaviest weights.
 
 ## Building
 
@@ -73,6 +76,6 @@ available with a FAQ at https://openfontlicense.org. See `OFL.txt`.
 
 ## Changelog
 
-**1.040** First release built from UFO sources with fontmake. Weight 600 named SemiBold. Added
-U+030B. Private-use codepoints for alternates removed; the alternates remain available through
+**1.040** First release built from UFO sources, with gftools builder. Weight 600 named SemiBold.
+Added U+030B. Mark positioning extended to Cyrillic and Greek. Private-use codepoints for alternates removed; the alternates remain available through
 their OpenType features.
