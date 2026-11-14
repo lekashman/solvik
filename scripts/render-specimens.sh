@@ -15,3 +15,4 @@ render 02-weights.html solvik-weights.png
 render 03-interface.html solvik-interface.png
 render 04-editorial.html solvik-editorial.png
 render 05-characters.html solvik-characters.png
+render 06-languages.html solvik-languages.png

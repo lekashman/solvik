@@ -20,6 +20,14 @@ Characters and languages:
 
 ![Solvik glyph samples and text in English, Norwegian, Polish, Russian and Greek](documentation/solvik-characters.png)
 
+Languages. Google Fonts' [shaperglot](https://github.com/googlefonts/shaperglot) 1.2.2 reports
+782 languages as supported in every style: 723 written in Latin script (Vietnamese included),
+58 in Cyrillic, and Greek. Russian, Ukrainian, Belarusian, Bulgarian and Serbian Cyrillic have
+every letter but are not in that count, because the combining stress accents used in
+dictionaries are not positioned over Cyrillic vowels.
+
+![782 supported languages, with 65 of their names and a Vietnamese text sample](documentation/solvik-languages.png)
+
 The specimen pages are HTML files in `documentation/specimens`. Open one in a browser to see the
 fonts live, or run `sh scripts/render-specimens.sh` to render them to the images above.
 
