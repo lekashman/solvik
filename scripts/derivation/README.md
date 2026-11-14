@@ -7,5 +7,5 @@ this folder (`build.py` and the modules it imports), then finished and checked (
 font built from a UFO shapes text exactly like the finished font it came from.
 
 The UFOs in `/sources` are the sources of record from here on: edit them and run
-`scripts/build.sh`. The scripts in this folder document where they came from. File paths inside
+`make build`. The scripts in this folder document where they came from. File paths inside
 them reflect the machine they were run on.

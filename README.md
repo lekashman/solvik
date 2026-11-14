@@ -18,13 +18,16 @@ by Rasmus Andersson.
 
 ## Building
 
-Fonts are built from the UFO sources in `sources/` with [fontmake](https://github.com/googlefonts/fontmake):
+The repository follows the [Google Fonts project template](https://github.com/googlefonts/googlefonts-project-template).
+Fonts are built from the UFO sources in `sources/` with [gftools builder](https://github.com/googlefonts/gftools),
+configured in `sources/config.yaml`:
 
-    pip install -r requirements.txt
-    sh scripts/build.sh
+    make build
 
-The built fonts are written to `fonts/ttf`. `scripts/derivation` documents how the sources were
-derived from Inter.
+This creates a Python environment in `venv/`, installs the tools listed in `requirements.in`, and
+writes the fonts to `fonts/ttf`. `make test` checks them with
+[fontspector](https://github.com/fonttools/fontspector) and `make proof` writes proof pages to
+`out/proof`. `scripts/derivation` documents how the sources were derived from Inter.
 
 ## Status
 

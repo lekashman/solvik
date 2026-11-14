@@ -1,19 +1,99 @@
-name: Build fonts and test
-on: [push, pull_request]
+name: Build font and specimen
+
+on:
+  workflow_dispatch:
+  pull_request:
+  push:
+    branches:
+      - main
+    tags:
+      - "*"
+
+permissions: {}
+
 jobs:
   build:
+    name: Build and test
     runs-on: ubuntu-latest
+    permissions:
+      contents: read # check out the repository
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
         with:
-          python-version: "3.12"
-      - run: pip install -r requirements.txt
-      - run: sh scripts/build.sh
-      - run: fontbakery check-googlefonts -l WARN --succinct --ghmarkdown fontbakery-report.md fonts/ttf/*.ttf || true
-      - uses: actions/upload-artifact@v4
+          persist-credentials: false
+      - name: Set up Python 3.11
+        uses: actions/setup-python@ece7cb06caefa5fff74198d8649806c4678c61a1 # v6.3.0
         with:
-          name: fonts-and-report
+          python-version: "3.11"
+      - name: Setup fontspector
+        uses: fonttools/setup-fontspector@d53404291dc78a5a41cf76ea48e1d13a731fb812 # main
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: cargo-bins/cargo-binstall@90e4ee1101c5c9818ad29c4904d3cec4122bac0e # main
+        name: Install cargo binstall
+      - name: Install Rust font tools
+        run: cargo binstall --no-confirm diffenator3
+      - name: Set artifact file name
+        shell: bash
+        run: echo "ZIP_NAME=$(echo "$GITHUB_REPOSITORY" | awk -F '/' '{print $2}')-fonts" >> "$GITHUB_ENV"
+      - name: Build font
+        run: make build
+      - name: Check with fontspector
+        run: make test
+        continue-on-error: true
+      - name: Generate proofs
+        run: make proof
+        continue-on-error: true
+      - name: Set up test result site
+        run: mkdir -p out && cp scripts/index.html out/index.html
+      - name: Archive artifacts
+        uses: actions/upload-artifact@b7c566a772e6b6bfb58ed0dc250532a479d7789f # v6.0.0
+        with:
+          name: ${{ env.ZIP_NAME }}
           path: |
-            fonts/ttf
-            fontbakery-report.md
+            fonts
+            out
+    outputs:
+      zip_name: ${{ env.ZIP_NAME }}
+
+  # Pushing a tag builds the fonts and attaches a zip of them to a GitHub release.
+  release:
+    name: Release bundle
+    if: ${{ github.ref_type == 'tag' }}
+    needs: build
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # create the release and upload its bundle
+    env:
+      ZIP_NAME: ${{ needs.build.outputs.zip_name }}
+      GH_TOKEN: ${{ github.token }}
+    steps:
+      - uses: actions/checkout@d23441a48e516b6c34aea4fa41551a30e30af803 # v6.1.0
+        with:
+          persist-credentials: false
+      - name: Use font artifacts from CI
+        uses: actions/download-artifact@37930b1c2abaa49bbe596cd826c3c89aef350131 # v7.0.0
+        with:
+          name: ${{ env.ZIP_NAME }}
+          path: ${{ env.ZIP_NAME }}
+      - name: Copy ARTICLE.en_us.html to release directory
+        run: cp documentation/ARTICLE.en_us.html "$ZIP_NAME/ARTICLE.en_us.html"
+        continue-on-error: true
+      - name: Copy OFL.txt to release directory
+        run: cp OFL.txt "$ZIP_NAME/OFL.txt"
+      - name: Remove proof/test outputs from release
+        run: rm -rf "$ZIP_NAME/out"
+      - name: Set release file name
+        shell: bash
+        run: echo "RELEASE_ZIP_NAME=$(echo "$GITHUB_REPOSITORY" | awk -F '/' '{print $2}')-$GITHUB_REF_NAME" >> "$GITHUB_ENV"
+      - name: Create release bundle
+        run: mv "$ZIP_NAME" "$RELEASE_ZIP_NAME"; zip -r "$RELEASE_ZIP_NAME.zip" "$RELEASE_ZIP_NAME"
+      - name: Check for release
+        run: |
+          if ! gh release view "$GITHUB_REF_NAME"; then
+          git show -s --format=%B "$GITHUB_REF_NAME" | tail -n +4 | gh release create "$GITHUB_REF_NAME" -t "$GITHUB_REF_NAME" -F -
+          fi
+      - name: Populate release
+        run: gh release upload "$GITHUB_REF_NAME" "$RELEASE_ZIP_NAME.zip" --clobber
+      - name: Set release live
+        run: gh release edit "$GITHUB_REF_NAME" --draft=false

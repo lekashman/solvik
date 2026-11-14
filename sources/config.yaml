@@ -1,0 +1,31 @@
+# Build configuration for gftools builder. Run `make build` from the repository root.
+sources:
+  - Solvik-ExtraLight.ufo
+  - Solvik-ExtraLightItalic.ufo
+  - Solvik-Light.ufo
+  - Solvik-LightItalic.ufo
+  - Solvik-Regular.ufo
+  - Solvik-Italic.ufo
+  - Solvik-SemiBold.ufo
+  - Solvik-SemiBoldItalic.ufo
+  - Solvik-Bold.ufo
+  - Solvik-BoldItalic.ufo
+  - Solvik-ExtraBold.ufo
+  - Solvik-ExtraBoldItalic.ufo
+  - Solvik-Black.ufo
+  - Solvik-BlackItalic.ufo
+familyName: Solvik
+
+# Each source is one static style. The outlines are not interpolable, so there is no variable font.
+buildVariable: false
+buildOTF: false
+buildWebfont: false
+
+# The fonts are unhinted.
+autohintTTF: false
+
+# The sources carry their own kerning and mark features and keep overlapping contours.
+removeOutlineOverlaps: false
+flattenComponents: false
+decomposeTransformedComponents: false
+extraStaticFontmakeArgs: "--feature-writer None --no-production-names"
