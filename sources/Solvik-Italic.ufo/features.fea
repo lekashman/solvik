@@ -23672,6 +23672,12 @@ lookup MarkToBase15 {
             <anchor 572 1490> mark @Anchor16__Anchor16;
         pos base uni1E03
             <anchor 913 1725> mark @Anchor16__Anchor16;
+        pos base uni044F
+            <anchor 682 1118> mark @Anchor16__Anchor16;
+        pos base uni044A
+            <anchor 786 1118> mark @Anchor16__Anchor16;
+        pos base uni042E
+            <anchor 1280 1490> mark @Anchor16__Anchor16;
         pos base [c ccedilla uni0441 o ohorn ohungarumlaut uni01EB uni022B uni022D uni0231 uni1E4D uni1E4F uni1E51 uni1E53 uni1ECD uni1ECF uni1ED5 uni1ED7 uni1EDF uni1EE3 omicron omicrontonos uni1F40 uni1F41 uni1F42 uni1F43 uni1F44 uni1F45 uni1F78 obar uni043E uni022B.ss07 uni1ECD.ss07 uni1EE3.ss07 uni1E4F.ss07 uni01B9 uni04E9 uni1F79]
             <anchor 747 1118> mark @Anchor16__Anchor16;
         pos base [uni023C e eogonek uni0229 uni1E15 uni1E17 uni1E19 uni1E1B uni1EB9 uni1EBB uni1EC3 uni1EC5 uni0435 uni1EB9.ss07]
@@ -29260,3 +29266,64 @@ feature mkmk {
 
 } mkmk;
 
+# Mark positioning for Cyrillic and Greek, using the same lookups as the default script.
+feature mark {
+    script cyrl;
+    language dflt;
+            lookup MarkToBase7;
+} mark;
+feature mark {
+    script cyrl;
+    language dflt;
+            lookup MarkToBase9;
+} mark;
+feature mark {
+    script cyrl;
+    language dflt;
+            lookup MarkToBase11;
+} mark;
+feature mark {
+    script cyrl;
+    language dflt;
+            lookup MarkToBase13;
+} mark;
+feature mark {
+    script cyrl;
+    language dflt;
+            lookup MarkToBase15;
+} mark;
+feature mkmk {
+    script cyrl;
+    language dflt;
+            lookup MarkToMark17;
+} mkmk;
+feature mark {
+    script grek;
+    language dflt;
+            lookup MarkToBase7;
+} mark;
+feature mark {
+    script grek;
+    language dflt;
+            lookup MarkToBase9;
+} mark;
+feature mark {
+    script grek;
+    language dflt;
+            lookup MarkToBase11;
+} mark;
+feature mark {
+    script grek;
+    language dflt;
+            lookup MarkToBase13;
+} mark;
+feature mark {
+    script grek;
+    language dflt;
+            lookup MarkToBase15;
+} mark;
+feature mkmk {
+    script grek;
+    language dflt;
+            lookup MarkToMark17;
+} mkmk;
