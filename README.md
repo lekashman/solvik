@@ -1,6 +1,27 @@
 # Solvik
 
-![Solvik sample](documentation/solvik-sample.png)
+![Solvik overview: the name in Black, the seven weights with italics, and the character set](documentation/solvik-sample.png)
+
+## Specimens
+
+Seven weights, from ExtraLight to Black, each with an italic:
+
+![The seven weights of Solvik with their italics](documentation/solvik-weights.png)
+
+In an interface, with Regular and SemiBold at 13 to 16 px and Light for large numbers:
+
+![Solvik in a ferry timetable dashboard](documentation/solvik-interface.png)
+
+In editorial text, with an ExtraBold headline, a Light Italic deck and Regular body text:
+
+![Solvik in a magazine article layout](documentation/solvik-editorial.png)
+
+Characters and languages:
+
+![Solvik glyph samples and text in English, Norwegian, Polish, Russian and Greek](documentation/solvik-characters.png)
+
+The specimen pages are HTML files in `documentation/specimens`. Open one in a browser to see the
+fonts live, or run `sh scripts/render-specimens.sh` to render them to the images above.
 
 Solvik is a sans-serif family in seven weights (Extra Light, Light, Regular, SemiBold, Bold,
 Extra Bold, Black), each with an italic. It is derived from [Inter](https://github.com/rsms/inter)

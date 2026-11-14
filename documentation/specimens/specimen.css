@@ -1,0 +1,32 @@
+/* Shared styles for the specimen pages. Each page is 1600 x 1000 CSS pixels and is rendered
+   to PNG by scripts/render-specimens.sh. The fonts load from fonts/ttf in this repository. */
+@font-face { font-family: Solvik; font-weight: 200; font-style: normal; src: url(../../fonts/ttf/Solvik-ExtraLight.ttf); }
+@font-face { font-family: Solvik; font-weight: 200; font-style: italic; src: url(../../fonts/ttf/Solvik-ExtraLightItalic.ttf); }
+@font-face { font-family: Solvik; font-weight: 300; font-style: normal; src: url(../../fonts/ttf/Solvik-Light.ttf); }
+@font-face { font-family: Solvik; font-weight: 300; font-style: italic; src: url(../../fonts/ttf/Solvik-LightItalic.ttf); }
+@font-face { font-family: Solvik; font-weight: 400; font-style: normal; src: url(../../fonts/ttf/Solvik-Regular.ttf); }
+@font-face { font-family: Solvik; font-weight: 400; font-style: italic; src: url(../../fonts/ttf/Solvik-Italic.ttf); }
+@font-face { font-family: Solvik; font-weight: 600; font-style: normal; src: url(../../fonts/ttf/Solvik-SemiBold.ttf); }
+@font-face { font-family: Solvik; font-weight: 600; font-style: italic; src: url(../../fonts/ttf/Solvik-SemiBoldItalic.ttf); }
+@font-face { font-family: Solvik; font-weight: 700; font-style: normal; src: url(../../fonts/ttf/Solvik-Bold.ttf); }
+@font-face { font-family: Solvik; font-weight: 700; font-style: italic; src: url(../../fonts/ttf/Solvik-BoldItalic.ttf); }
+@font-face { font-family: Solvik; font-weight: 800; font-style: normal; src: url(../../fonts/ttf/Solvik-ExtraBold.ttf); }
+@font-face { font-family: Solvik; font-weight: 800; font-style: italic; src: url(../../fonts/ttf/Solvik-ExtraBoldItalic.ttf); }
+@font-face { font-family: Solvik; font-weight: 900; font-style: normal; src: url(../../fonts/ttf/Solvik-Black.ttf); }
+@font-face { font-family: Solvik; font-weight: 900; font-style: italic; src: url(../../fonts/ttf/Solvik-BlackItalic.ttf); }
+
+:root { --paper: #f4f4f2; --ink: #111111; --blue: #1232e0; --grey: #5c5c5c; --line: #d9d9d4; }
+* { margin: 0; padding: 0; box-sizing: border-box; }
+html, body {
+  width: 1600px; height: 1000px; overflow: hidden;
+  background: var(--paper); color: var(--ink);
+  font-family: Solvik; font-weight: 400; font-synthesis: none;
+  -webkit-font-smoothing: antialiased;
+}
+.page { position: absolute; inset: 0; padding: 64px 80px 60px; display: flex; flex-direction: column; }
+.top { display: flex; justify-content: space-between; font-size: 17px; color: var(--grey); letter-spacing: .01em; }
+.lab { font-size: 13px; font-weight: 600; letter-spacing: .14em; color: var(--grey); text-transform: uppercase; }
+.dark { background: var(--ink); color: #f4f4f2; }
+.dark .top, .dark .lab { color: #9a9a96; }
+.bluepage { background: var(--blue); color: #fff; }
+.bluepage .top, .bluepage .lab { color: #c3ccff; }

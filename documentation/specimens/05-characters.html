@@ -1,0 +1,42 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Solvik characters and languages</title>
+<link rel="stylesheet" href="specimen.css">
+<style>
+  .grid { flex: 1; display: grid; grid-template-columns: 1fr 1fr; column-gap: 72px; margin-top: 30px; }
+  .tiles { display: grid; grid-template-columns: repeat(4, 1fr); grid-template-rows: repeat(3, 1fr); gap: 12px; }
+  .tile { background: #fff; border: 1px solid var(--line); border-radius: 12px; display: flex; align-items: center; justify-content: center; font-size: 80px; letter-spacing: -.02em; line-height: 1; }
+  .tile.b { background: var(--blue); border-color: var(--blue); color: #fff; }
+  .tile.k { background: var(--ink); border-color: var(--ink); color: #fff; }
+  .langs { display: flex; flex-direction: column; justify-content: space-between; }
+  .lang { border-top: 1.5px solid var(--ink); padding-top: 8px; }
+  .lang p { font-size: 29px; line-height: 1.22; letter-spacing: -.01em; margin-top: 5px; }
+  .glyphs { font-size: 24px; line-height: 1.4; margin-top: 5px; }
+</style>
+<div class="page">
+  <div class="top"><span>Solvik · Characters</span><span>Latin with extensions, Cyrillic and Greek</span></div>
+  <div class="grid">
+    <div class="tiles">
+      <div class="tile" style="font-weight:900">Aa</div>
+      <div class="tile b" style="font-weight:300">Oo</div>
+      <div class="tile" style="font-weight:600;font-style:italic">ae</div>
+      <div class="tile" style="font-weight:200">Gg</div>
+      <div class="tile k" style="font-weight:700">Rr</div>
+      <div class="tile" style="font-weight:400">Qq</div>
+      <div class="tile" style="font-weight:800">25</div>
+      <div class="tile b" style="font-weight:900;font-style:italic">fy</div>
+      <div class="tile" style="font-weight:300;font-style:italic">Жд</div>
+      <div class="tile" style="font-weight:800">&amp;?</div>
+      <div class="tile k" style="font-weight:200">Ωφ</div>
+      <div class="tile" style="font-weight:600">@€</div>
+    </div>
+    <div class="langs">
+      <div class="lang"><div class="lab">English · Regular</div><p>The round stones of the harbour wall were smooth before anyone lifted them.</p></div>
+      <div class="lang"><div class="lab">Norsk · SemiBold</div><p style="font-weight:600">Båten går fra Solvik klokka åtte, og sjøen er blank som glass.</p></div>
+      <div class="lang"><div class="lab">Polski · Light Italic</div><p style="font-weight:300;font-style:italic">Żółta łódź płynie wśród jasnych, okrągłych skał.</p></div>
+      <div class="lang"><div class="lab">Русский · Bold</div><p style="font-weight:700">Утренний паром выходит из бухты в восемь часов.</p></div>
+      <div class="lang"><div class="lab">Ελληνικά · Regular</div><p>Ο ήλιος φτάνει στο λιμάνι λίγο πριν το μεσημέρι.</p></div>
+      <div class="lang"><div class="lab">Figures and symbols · Regular</div><div class="glyphs">0123456789 ½ ¼ ¾ € $ £ ¥ % ‰ + − × ÷ = ≠ ≤ ≥ → ← ↑ ↓ © ® ™ § ¶ † № « » “ ”</div></div>
+    </div>
+  </div>
+</div>

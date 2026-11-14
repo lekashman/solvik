@@ -1,0 +1,53 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Solvik overview</title>
+<link rel="stylesheet" href="specimen.css">
+<style>
+  .hero { display: flex; justify-content: space-between; align-items: flex-end; margin-top: 26px; }
+  h1 { font-weight: 900; font-size: 356px; line-height: .82; letter-spacing: -.035em; color: var(--blue); margin-left: -17px; }
+  .tag { font-weight: 300; font-size: 112px; line-height: 1; letter-spacing: -.025em; margin-top: 30px; }
+  .ladder { display: grid; grid-template-columns: auto auto; column-gap: 36px; row-gap: 9px; font-size: 44px; line-height: 1.12; letter-spacing: -.01em; padding-bottom: 10px; }
+  .ladder span:nth-child(even) { font-style: italic; color: var(--blue); }
+  hr { border: 0; border-top: 1.5px solid var(--ink); margin: 44px 0 30px; }
+  .cols { display: grid; grid-template-columns: 1.3fr 1fr .95fr; column-gap: 56px; flex: 1; }
+  .lab { margin-bottom: 14px; }
+  .set { font-size: 35px; line-height: 1.34; }
+  .set b { font-weight: 700; }
+  .txt { font-size: 22px; line-height: 1.45; }
+  .fig { font-size: 60px; font-weight: 800; line-height: 1.05; letter-spacing: -.02em; }
+  .foot { font-size: 17px; line-height: 1.5; color: var(--grey); margin-top: 16px; }
+</style>
+<div class="page">
+  <div class="top"><span>Solvik 1.040</span><span>7 weights with italics · Latin, Cyrillic, Greek · SIL Open Font License</span></div>
+  <div class="hero">
+    <div>
+      <h1>Solvik</h1>
+      <div class="tag">good, round, <i>open</i></div>
+    </div>
+    <div class="ladder">
+      <span style="font-weight:200">ExtraLight</span><span style="font-weight:200">Italic</span>
+      <span style="font-weight:300">Light</span><span style="font-weight:300">Italic</span>
+      <span style="font-weight:400">Regular</span><span style="font-weight:400">Italic</span>
+      <span style="font-weight:600">SemiBold</span><span style="font-weight:600">Italic</span>
+      <span style="font-weight:700">Bold</span><span style="font-weight:700">Italic</span>
+      <span style="font-weight:800">ExtraBold</span><span style="font-weight:800">Italic</span>
+      <span style="font-weight:900">Black</span><span style="font-weight:900">Italic</span>
+    </div>
+  </div>
+  <hr>
+  <div class="cols">
+    <div>
+      <div class="lab">Characters</div>
+      <div class="set">ABCDEFGHIJKLMNOPQRSTUVWXYZ<br>abcdefghijklmnopqrstuvwxyz<br><b>АБВГДЖЗИКЛ αβγδεζηθλμ</b><br><b>&amp;@%$#!?()[]{}/*+=</b></div>
+    </div>
+    <div>
+      <div class="lab">Text</div>
+      <div class="txt">Solvik takes Inter toward the geometric end of the grotesque genre. The o is close to a circle in every weight, the terminals are cut flat, and the italics keep the upright shapes of a, e and f.</div>
+    </div>
+    <div>
+      <div class="lab">Figures</div>
+      <div class="fig">0123456789</div>
+      <div class="foot">Derived from Inter by Rasmus Andersson.<br>Free to use and modify.<br>github.com/lekashman/solvik</div>
+    </div>
+  </div>
+</div>
