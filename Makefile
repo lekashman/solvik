@@ -32,7 +32,7 @@ test: build.stamp
 
 proof: venv build.stamp
 	which diff3proof || (echo "diff3proof not found. Please install it with 'cargo binstall diffenator3'." && exit 1)
-	mkdir -p out/ out/proof; diff3proof fonts/ttf/*.ttf --output out/proof
+	mkdir -p out/ out/proof; for font in fonts/ttf/*.ttf; do diff3proof $$font --output out/proof/$$(basename $$font .ttf) || exit 1; done
 
 clean:
 	rm -rf venv build.stamp out
