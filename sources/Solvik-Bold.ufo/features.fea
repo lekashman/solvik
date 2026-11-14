@@ -30302,3 +30302,64 @@ feature mkmk {
     language dflt;
             lookup MarkToMark17;
 } mkmk;
+
+# Extra kerning for pairs that sat closer than 8% of the stem width, most of them touching.
+# The values add to the kerning in the lookups above.
+lookup CollisionKern {
+    lookupflag 0;
+    pos ampersand j 18;
+    pos ampersand jcircumflex 18;
+    pos ampersand underscore 7;
+    pos longs icircumflex 6;
+    pos longs jcircumflex 6;
+    pos longs t 21;
+    pos longs tbar 19;
+    pos longs tcaron 21;
+    pos longs uni0163 21;
+    pos longs v 20;
+    pos longs w 16;
+    pos longs wcircumflex 16;
+    pos longs y 22;
+    pos longs yacute 22;
+    pos longs ycircumflex 22;
+    pos longs ydieresis 22;
+    pos parenleft icircumflex 44;
+    pos parenleft jcircumflex 11;
+    pos uni00B5 j 6;
+    pos uni00B5 jcircumflex 6;
+} CollisionKern;
+feature kern {
+    script DFLT;
+    language dflt;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script cyrl;
+    language dflt;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script grek;
+    language dflt;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script latn;
+    language dflt;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script latn;
+    language CAT;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script latn;
+    language MOL;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script latn;
+    language ROM;
+            lookup CollisionKern;
+} kern;

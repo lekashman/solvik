@@ -53,10 +53,10 @@ fonts live, or run `sh scripts/render-specimens.sh` to render them to the images
 - Italic a, e and f are the upright letters slanted, not Inter's cursive forms.
 - Figures are wider, by about 8% in Regular. Straight-sided letters are about 2% wider. Both
   differences shrink toward Black, where they are about 1%.
-- Spacing and kerning are rebuilt for the new shapes. Kerning adds a small gap where two Latin
-  letters, figures or punctuation marks would otherwise collide. Some pairs still touch, at most 56
-  of about 110,000 in any one style: most involve the long s (U+017F), and the rest are pairs such
-  as `(î` and `&j` in the heaviest weights.
+- Spacing and kerning are rebuilt for the new shapes. Among the 331 Latin letters, figures and
+  punctuation marks checked (Basic Latin, Latin-1, Latin Extended-A and common punctuation), no
+  two sit closer than 8% of the stem width in any style. The exceptions are pairs that join by
+  design: ff, ft, tt and runs of dashes or underscores.
 
 ## Building
 
@@ -89,5 +89,6 @@ available with a FAQ at https://openfontlicense.org. See `OFL.txt`.
 ## Changelog
 
 **1.040** First release built from UFO sources, with gftools builder. Weight 600 named SemiBold.
-Added U+030B. Mark positioning extended to Cyrillic and Greek. Private-use codepoints for alternates removed; the alternates remain available through
+Added U+030B. Mark positioning extended to Cyrillic and Greek. Kerning added for
+pairs that touched, mostly with the long s and in the heavy weights. Private-use codepoints for alternates removed; the alternates remain available through
 their OpenType features.

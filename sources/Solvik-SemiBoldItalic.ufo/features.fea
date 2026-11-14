@@ -33232,3 +33232,82 @@ feature mkmk {
     language dflt;
             lookup MarkToMark17;
 } mkmk;
+
+# Extra kerning for pairs that sat closer than 8% of the stem width, most of them touching.
+# The values add to the kerning in the lookups above.
+lookup CollisionKern {
+    lookupflag 0;
+    pos A longs 30;
+    pos Aacute longs 30;
+    pos Abreve longs 30;
+    pos Acircumflex longs 30;
+    pos Adieresis longs 30;
+    pos Agrave longs 30;
+    pos Amacron longs 30;
+    pos Aring longs 30;
+    pos Atilde longs 30;
+    pos K longs 22;
+    pos R longs 34;
+    pos Racute longs 34;
+    pos Rcaron longs 34;
+    pos X longs 23;
+    pos ampersand longs 13;
+    pos k longs 63;
+    pos kgreenlandic longs 54;
+    pos longs icircumflex 23;
+    pos longs jcircumflex 22;
+    pos longs t 9;
+    pos longs tbar 5;
+    pos longs tcaron 9;
+    pos longs uni0163 9;
+    pos longs v 6;
+    pos longs y 7;
+    pos longs yacute 7;
+    pos longs ycircumflex 7;
+    pos longs ydieresis 7;
+    pos onehalf longs 4;
+    pos parenleft icircumflex 10;
+    pos t longs 38;
+    pos tbar longs 38;
+    pos underscore longs 6;
+    pos uni00B5 longs 74;
+    pos uni0136 longs 22;
+    pos uni0137 longs 63;
+    pos uni0156 longs 34;
+    pos x longs 30;
+} CollisionKern;
+feature kern {
+    script DFLT;
+    language dflt;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script cyrl;
+    language dflt;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script grek;
+    language dflt;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script latn;
+    language dflt;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script latn;
+    language CAT;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script latn;
+    language MOL;
+            lookup CollisionKern;
+} kern;
+feature kern {
+    script latn;
+    language ROM;
+            lookup CollisionKern;
+} kern;
