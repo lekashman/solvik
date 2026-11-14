@@ -1,0 +1,73 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Solvik in a long article</title>
+<link rel="stylesheet" href="specimen.css">
+<style>
+  .sheet { flex: 1; margin-top: 26px; background: #fff; border: 1px solid var(--line); border-radius: 16px; padding: 40px 48px 0; display: grid; grid-template-columns: 200px 1fr 300px; column-gap: 48px; overflow: hidden; }
+  .meta { font-size: 14px; line-height: 1.5; color: var(--grey); }
+  .meta .lab { margin: 0 0 6px; font-size: 11px; }
+  .meta p { margin-bottom: 20px; }
+  .meta b { font-weight: 600; color: var(--ink); display: block; }
+  .toc div { padding: 7px 0; border-top: 1px solid var(--line); color: #333; }
+  .toc .on { font-weight: 600; color: var(--blue); }
+  h1 { font-weight: 700; font-size: 52px; line-height: 1.04; letter-spacing: -.03em; }
+  .lead { font-weight: 300; font-size: 25px; line-height: 1.36; letter-spacing: -.01em; margin-top: 16px; color: #222; }
+  h2 { font-weight: 600; font-size: 25px; letter-spacing: -.015em; margin: 24px 0 8px; }
+  .body p, .body li { font-size: 18.5px; line-height: 1.56; color: #1c1c1c; }
+  .body p + p { margin-top: 12px; }
+  .body a { color: var(--blue); text-decoration: underline; text-decoration-thickness: 1.5px; text-underline-offset: 3px; }
+  .body ol { margin: 8px 0 0 1.3em; }
+  .body li { padding-left: 4px; }
+  .body li::marker { font-weight: 700; color: var(--blue); }
+  .side .card { border: 1px solid var(--line); border-radius: 14px; padding: 18px 20px 12px; }
+  .side .lab { font-size: 11px; margin-bottom: 8px; }
+  table { width: 100%; border-collapse: collapse; font-size: 15.5px; font-feature-settings: "tnum"; }
+  th { text-align: left; font-size: 11px; font-weight: 600; letter-spacing: .12em; color: var(--grey); padding: 4px 0 8px; text-transform: uppercase; }
+  td { padding: 7px 0; border-top: 1px solid var(--line); }
+  th.r, td.r { text-align: right; }
+  td.hi { font-weight: 700; color: var(--blue); }
+  blockquote { margin-top: 22px; font-weight: 600; font-style: italic; font-size: 24px; line-height: 1.25; letter-spacing: -.015em; padding-left: 16px; border-left: 4px solid var(--blue); }
+  .cap { font-size: 13.5px; line-height: 1.45; color: var(--grey); margin-top: 10px; }
+</style>
+<div class="page">
+  <div class="top"><span>Solvik · Article</span><span>Bold title, Light lead, Regular text at 18.5 px, tabular figures in the table</span></div>
+  <div class="sheet">
+    <div class="meta">
+      <div class="lab">Guide</div>
+      <p><b>Seamanship</b>12 min read</p>
+      <div class="lab">Written by</div>
+      <p><b>Mari Solheim</b>Harbour pilot</p>
+      <div class="lab">In this guide</div>
+      <div class="toc"><div class="on">1. What the table shows</div><div>2. Reading the four columns</div><div>3. Springs and neaps</div><div>4. The rule of twelfths</div><div>5. When the table is wrong</div></div>
+    </div>
+    <div class="body">
+      <h1>How to read a tide table</h1>
+      <p class="lead">A tide table is a forecast. It gives you four numbers a day, and almost everything you need on the water can be worked out from those four.</p>
+      <h2>What the table shows</h2>
+      <p>Each line lists a time and a height. The height is measured from <i>chart datum</i>, the level the sea rarely falls below, so a height of 0.4 m means 0.4 m of water above the depths printed on your chart. Most coasts get two high waters and two low waters every 24 hours and 50 minutes.</p>
+      <p>That extra 50 minutes is why the tide comes <b>later each day</b>. If low water is at 06:12 today, expect it near 07:00 tomorrow. Your <a>harbour office</a> prints the local corrections.</p>
+      <h2>Reading the four columns</h2>
+      <ol>
+        <li>Find today’s date, then the next high water after you plan to leave.</li>
+        <li>Subtract the low-water height from the high-water height to get the range.</li>
+        <li>Add your boat’s draught and a safety margin of at least 0.5 m.</li>
+      </ol>
+      <h2>Springs and neaps</h2>
+      <p>Twice a month, around the new and the full moon, the range is at its largest. These are spring tides. A week later come the neaps, when high water is lower and low water is higher. At Solvik quay the range runs from about 0.6 m at neaps to 1.3 m at springs.</p>
+    </div>
+    <div class="side">
+      <div class="card">
+        <div class="lab">Solvik quay · Saturday</div>
+        <table>
+          <tr><th>Tide</th><th>Time</th><th class="r">Height</th></tr>
+          <tr><td>High</td><td>00:04</td><td class="r">1.38 m</td></tr>
+          <tr><td>Low</td><td>06:12</td><td class="r">0.41 m</td></tr>
+          <tr><td>High</td><td>12:27</td><td class="r hi">1.52 m</td></tr>
+          <tr><td>Low</td><td>18:40</td><td class="r">0.36 m</td></tr>
+        </table>
+      </div>
+      <div class="cap">Range for the afternoon tide: 1.52 − 0.36 = 1.16 m. Times are local.</div>
+      <blockquote>“The table tells you when. The wind tells you whether.”</blockquote>
+    </div>
+  </div>
+</div>

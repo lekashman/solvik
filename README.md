@@ -20,6 +20,18 @@ In editorial text, with an ExtraBold headline, a Light Italic deck and Regular b
 
 ![Solvik in a magazine article layout](documentation/solvik-editorial.png)
 
+In a long article, with a Bold title, a Light lead and Regular text at 18.5 px:
+
+![Solvik in a how-to article with a table of contents and a tide table](documentation/solvik-article.png)
+
+On a web page, with an ExtraBold headline and Light numerals:
+
+![Solvik on a landing page for a kayak rental](documentation/solvik-webpage.png)
+
+In logos. The nine names are invented for the specimen:
+
+![Nine wordmarks set in Solvik](documentation/solvik-logos.png)
+
 Characters and languages:
 
 ![Solvik glyph samples and text in English, Norwegian, Polish, Russian and Greek](documentation/solvik-characters.png)

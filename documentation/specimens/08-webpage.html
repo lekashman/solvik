@@ -1,0 +1,66 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Solvik on a web page</title>
+<link rel="stylesheet" href="specimen.css">
+<style>
+  body { background: #e6e6e1; }
+  .browser { flex: 1; margin-top: 26px; background: #fff; border-radius: 16px; box-shadow: 0 18px 50px rgba(0,0,0,.12); overflow: hidden; display: flex; flex-direction: column; }
+  .bar { height: 46px; background: #f1f1ee; border-bottom: 1px solid var(--line); display: flex; align-items: center; padding: 0 18px; gap: 8px; }
+  .bar i { width: 12px; height: 12px; border-radius: 50%; background: #cfcfc9; display: block; }
+  .url { margin-left: 18px; flex: 1; max-width: 520px; height: 28px; border-radius: 8px; background: #fff; border: 1px solid var(--line); font-size: 13px; color: var(--grey); display: flex; align-items: center; padding: 0 12px; }
+  .site { flex: 1; padding: 26px 48px 0; display: flex; flex-direction: column; }
+  nav { display: flex; align-items: center; justify-content: space-between; }
+  .logo { font-weight: 900; font-size: 28px; letter-spacing: -.04em; }
+  .logo b { color: var(--blue); font-weight: 900; }
+  .links { display: flex; gap: 34px; font-size: 16px; color: #333; align-items: center; }
+  .links .cta { font-weight: 600; color: #fff; background: var(--ink); padding: 10px 18px; border-radius: 99px; }
+  .hero { display: grid; grid-template-columns: 1.25fr 1fr; column-gap: 48px; margin-top: 54px; align-items: center; }
+  .kicker { font-size: 13px; font-weight: 600; letter-spacing: .16em; text-transform: uppercase; color: var(--blue); }
+  h1 { font-weight: 800; font-size: 94px; line-height: .98; letter-spacing: -.04em; margin-top: 14px; }
+  .lead { font-size: 23px; line-height: 1.45; color: #333; margin-top: 26px; max-width: 30em; }
+  .btns { display: flex; gap: 12px; margin-top: 34px; align-items: center; }
+  .btn { font-size: 17px; font-weight: 600; padding: 15px 26px; border-radius: 99px; background: var(--blue); color: #fff; }
+  .btn.ghost { background: none; color: var(--ink); border: 1.5px solid var(--ink); }
+  .note { font-size: 14px; color: var(--grey); margin-left: 8px; }
+  .art { height: 470px; border-radius: 20px; background: var(--blue); position: relative; overflow: hidden; }
+  .art .sun { position: absolute; width: 210px; height: 210px; border-radius: 50%; background: #ffc531; left: 50%; top: 100px; width: 250px; height: 250px; transform: translateX(-50%); }
+  .art .sea { position: absolute; left: 0; right: 0; bottom: 0; height: 180px; background: #0b1f9a; }
+  .art .sea::before, .art .sea::after { content: ""; position: absolute; left: 12%; right: 12%; height: 5px; border-radius: 9px; background: #ffc531; top: 34px; opacity: .9; }
+  .art .sea::after { left: 26%; right: 26%; top: 66px; opacity: .6; }
+  .art .tag { position: absolute; left: 20px; bottom: 18px; color: #fff; font-size: 14px; font-weight: 600; letter-spacing: .04em; }
+  .art .price { position: absolute; right: 18px; top: 18px; background: #fff; color: var(--ink); border-radius: 14px; padding: 10px 14px; text-align: right; }
+  .art .price b { display: block; font-weight: 800; font-size: 28px; letter-spacing: -.03em; line-height: 1; }
+  .art .price span { font-size: 12px; color: var(--grey); }
+  .facts { margin-top: auto; display: grid; grid-template-columns: repeat(4, 1fr); border-top: 1px solid var(--line); }
+  .fact { padding: 20px 0 24px; border-left: 1px solid var(--line); padding-left: 24px; }
+  .fact:first-child { border-left: 0; padding-left: 0; }
+  .fact b { display: block; font-weight: 300; font-size: 44px; letter-spacing: -.03em; line-height: 1.05; font-feature-settings: "tnum"; }
+  .fact span { font-size: 15px; color: var(--grey); }
+</style>
+<div class="page">
+  <div class="top"><span>Solvik · Web page</span><span>ExtraBold headline at 94 px, Regular text at 16 to 23 px, Light numerals</span></div>
+  <div class="browser">
+    <div class="bar"><i></i><i></i><i></i><div class="url">kajakk.example/solvik</div></div>
+    <div class="site">
+      <nav>
+        <div class="logo">kajakk<b>.</b></div>
+        <div class="links"><span>Routes</span><span>Rentals</span><span>Guides</span><span>Weather</span><span class="cta">Book a kayak</span></div>
+      </nav>
+      <div class="hero">
+        <div>
+          <div class="kicker">Sea kayaking · Solvik bay</div>
+          <h1>Paddle out before the ferry does.</h1>
+          <p class="lead">Rent a sea kayak by the hour from the old quay. We fit the boat, check the forecast with you, and mark three sheltered routes on your chart.</p>
+          <div class="btns"><div class="btn">See today’s times</div><div class="btn ghost">How it works</div><span class="note">Open 06:30 to 21:00</span></div>
+        </div>
+        <div class="art"><div class="sun"></div><div class="sea"></div><div class="price"><b>390 kr</b><span>per 2 hours</span></div><div class="tag">Sunrise today 08:52</div></div>
+      </div>
+      <div class="facts">
+        <div class="fact"><b>06:30</b><span>First launch of the day</span></div>
+        <div class="fact"><b>14 km</b><span>Of sheltered coastline</span></div>
+        <div class="fact"><b>3</b><span>Marked routes for beginners</span></div>
+        <div class="fact"><b>4.9 / 5</b><span>From 1,280 paddlers</span></div>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,41 @@
+<!doctype html>
+<meta charset="utf-8">
+<title>Solvik in logos</title>
+<link rel="stylesheet" href="specimen.css">
+<style>
+  .grid { flex: 1; display: grid; grid-template-columns: repeat(3, 1fr); grid-template-rows: repeat(3, 1fr); gap: 14px; margin-top: 26px; }
+  .tile { border-radius: 14px; display: flex; flex-direction: column; align-items: center; justify-content: center; background: #fff; border: 1px solid var(--line); overflow: hidden; position: relative; }
+  .sub { font-size: 13px; font-weight: 600; letter-spacing: .22em; text-transform: uppercase; margin-top: 12px; }
+  .blue { background: var(--blue); border-color: var(--blue); color: #fff; }
+  .ink { background: var(--ink); border-color: var(--ink); color: #f4f4f2; }
+  .sand { background: #ece7dc; border-color: #ece7dc; }
+  .sun { background: #ffc531; border-color: #ffc531; }
+
+  .ovo { font-weight: 900; font-size: 150px; letter-spacing: -.05em; line-height: .9; }
+  .brygga { font-weight: 600; font-size: 84px; letter-spacing: -.035em; line-height: 1; }
+  .nord { font-weight: 200; font-size: 50px; letter-spacing: .34em; margin-right: -.34em; line-height: 1; }
+  .good { font-weight: 900; font-size: 128px; letter-spacing: -.045em; line-height: .9; }
+  .good b { color: var(--blue); font-weight: 900; }
+  .rundt { font-weight: 800; font-style: italic; font-size: 104px; letter-spacing: -.04em; line-height: 1; }
+  .koop { display: flex; align-items: center; gap: 16px; font-weight: 700; font-size: 86px; letter-spacing: -.04em; line-height: 1; }
+  .koop i { width: 62px; height: 62px; border-radius: 50%; background: var(--blue); display: block; }
+  .oda { font-weight: 300; font-size: 68px; letter-spacing: -.02em; line-height: 1; }
+  .oda b { font-weight: 800; }
+  .fjell { font-weight: 400; font-size: 62px; letter-spacing: -.02em; line-height: 1; }
+  .fjell i { font-weight: 300; color: var(--blue); padding: 0 .04em; }
+  .hav { font-weight: 900; font-size: 136px; letter-spacing: -.02em; line-height: .86; }
+</style>
+<div class="page">
+  <div class="top"><span>Solvik · Logos</span><span>Nine wordmarks set in Solvik. The names are invented for this specimen.</span></div>
+  <div class="grid">
+    <div class="tile blue"><div class="ovo">ovo</div><div class="sub">Egg &amp; coffee bar</div></div>
+    <div class="tile sand"><div class="brygga">Brygga</div><div class="sub">Bakeri · siden 1894</div></div>
+    <div class="tile ink"><div class="nord">NORDKAPP</div><div class="sub" style="color:#9a9a96">Expeditions</div></div>
+    <div class="tile"><div class="good">good<b>.</b></div></div>
+    <div class="tile sun"><div class="rundt">Rundt</div><div class="sub">Sykkelklubb</div></div>
+    <div class="tile"><div class="koop"><i></i>koop</div><div class="sub" style="color:var(--grey)">Neighbourhood grocery</div></div>
+    <div class="tile ink"><div class="oda">Studio <b>Oda</b></div></div>
+    <div class="tile"><div class="fjell">fjell <i>&amp;</i> fjord</div><div class="sub" style="color:var(--grey)">Outdoor outfitters</div></div>
+    <div class="tile blue"><div class="hav">HAV</div><div class="sub">Sea salt · 250 g</div></div>
+  </div>
+</div>
