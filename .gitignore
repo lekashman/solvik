@@ -15,3 +15,6 @@ __pycache__/
 .DS_Store
 fontbakery-report.md
 SUBMISSION.md
+
+# Local working files (sample deck built from a commercial template)
+local/

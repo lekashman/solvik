@@ -34,6 +34,13 @@ On a web page, with an ExtraBold headline and Light numerals:
 
 ![Solvik on a landing page for a kayak rental](documentation/solvik-webpage.png)
 
+In a slide deck, the use Solvik was made for. Eight slides in the Standard Deck layout from
+[slidedeck.co](https://slidedeck.co), set in all seven weights: Black against Light and ExtraLight
+in the titles, ExtraBold for emphasis inside a Light sentence, and three figures in Black, Regular
+and ExtraLight:
+
+![Eight presentation slides set in Solvik, from ExtraLight to Black](documentation/solvik-slides.png)
+
 In logos. The nine names are invented for the specimen:
 
 ![Nine wordmarks set in Solvik](documentation/solvik-logos.png)
@@ -49,7 +56,8 @@ Languages. Google Fonts' [shaperglot](https://github.com/googlefonts/shaperglot)
 ![792 supported languages, with 70 of their names and a Vietnamese text sample](documentation/solvik-languages.png)
 
 The specimen pages are HTML files in `documentation/specimens`. Open one in a browser to see the
-fonts live, or run `sh scripts/render-specimens.sh` to render them to the images above.
+fonts live, or run `sh scripts/render-specimens.sh` to render them to the images above. The slide image is the exception: it is rendered from a
+PowerPoint file that is not in this repository.
 
 ## How it differs from Inter
 
