@@ -110,6 +110,10 @@ this repo, in `OFL.txt`, and is also available with a FAQ at: https://openfontli
 
 ## Changelog
 
+**1.041** (November 2026) The fonts now appear in PowerPoint 16.16 for Mac. In 1.040 the STAT step left a
+Macintosh-platform name table with no family name, and that version of PowerPoint could not list the family.
+Outlines, metrics, spacing and features are unchanged.
+
 **1.040** (November 2026) First release built from UFO sources, with gftools builder. Weight 600 named SemiBold.
 Added U+030B. Mark positioning extended to Cyrillic and Greek. Kerning added for
 pairs that touched, mostly with the long s and in the heavy weights. Private-use codepoints for alternates removed; the alternates remain available through

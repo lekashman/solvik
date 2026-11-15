@@ -1,5 +1,7 @@
 """Add a STAT table to each static font, as Google Fonts expects: one Weight value and one Italic value per font,
-with Regular and Roman elidable and style-linked to Bold and Italic."""
+with Regular and Roman elidable and style-linked to Bold and Italic.
+The STAT names are written for the Windows platform only. A Macintosh-platform name table that holds
+nothing but STAT names hides the family from PowerPoint 16.16 for Mac."""
 import sys
 from fontTools.ttLib import TTFont
 from fontTools.otlLib.builder import buildStatTable
@@ -14,5 +16,5 @@ for path in sys.argv[1:]:
         weight.update(flags=0x2, linkedValue=700)
     ital = dict(value=1, name="Italic") if italic else dict(value=0, name="Roman", flags=0x2, linkedValue=1)
     buildStatTable(f, [dict(tag="wght", name="Weight", values=[weight]), dict(tag="ital", name="Italic", values=[ital])],
-                   elidedFallbackName="Regular")
+                   elidedFallbackName="Regular", macNames=False)
     f.save(path)
