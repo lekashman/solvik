@@ -5,6 +5,9 @@ Extra Bold, Black), each with an italic. It is derived from [Inter](https://gith
 by Rasmus Andersson and moves it toward the geometric end of the grotesque genre, with near-circular
 round letters and flat terminals. It covers Latin (including Vietnamese), Cyrillic and Greek.
 
+Solvik was made as a version of Inter for presentations and slide decks, where a few words at
+large sizes have to carry the emphasis.
+
 ![Solvik: the name, a sample line and the seven weights](documentation/solvik-760x506.png)
 
 ## Specimens
