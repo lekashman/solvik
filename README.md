@@ -35,9 +35,9 @@ On a web page, with an ExtraBold headline and Light numerals:
 ![Solvik on a landing page for a kayak rental](documentation/solvik-webpage.png)
 
 In a slide deck, the use Solvik was made for. Eight slides in the Standard Deck layout from
-[slidedeck.co](https://slidedeck.co), set in all seven weights: Black against Light and ExtraLight
-in the titles, ExtraBold for emphasis inside a Light sentence, and three figures in Black, Regular
-and ExtraLight:
+[slidedeck.co](https://slidedeck.co), set in all seven weights: Black and ExtraBold against Light and
+ExtraLight in the titles, ExtraBold for emphasis inside a Light sentence, and three figures in
+ExtraBold, Regular and ExtraLight:
 
 ![Eight presentation slides set in Solvik, from ExtraLight to Black](documentation/solvik-slides.png)
 
