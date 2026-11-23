@@ -21,8 +21,8 @@ buildVariable: false
 buildOTF: false
 buildWebfont: false
 
-# The fonts are unhinted.
-autohintTTF: false
+# The static fonts are hinted with ttfautohint.
+autohintTTF: true
 
 # The sources carry their own kerning and mark features and keep overlapping contours.
 removeOutlineOverlaps: false

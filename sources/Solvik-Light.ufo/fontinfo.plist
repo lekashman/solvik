@@ -56,9 +56,9 @@
 	<key>openTypeNameRecords</key>
 	<array/>
 	<key>openTypeNameUniqueID</key>
-	<string>1.041;NONE;Solvik-Light</string>
+	<string>1.042;NONE;Solvik-Light</string>
 	<key>openTypeNameVersion</key>
-	<string>Version 1.041</string>
+	<string>Version 1.042</string>
 	<key>openTypeOS2CodePageRanges</key>
 	<array>
 		<integer>0</integer>
@@ -210,7 +210,7 @@
 	<key>versionMajor</key>
 	<integer>1</integer>
 	<key>versionMinor</key>
-	<integer>41</integer>
+	<integer>42</integer>
 	<key>xHeight</key>
 	<integer>1118</integer>
 </dict>

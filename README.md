@@ -88,7 +88,7 @@ writes the fonts to `fonts/ttf`. `make test` checks them with
 ## Status
 
 - Static fonts only. There is no variable font yet.
-- The fonts are unhinted, with a `gasp` table and smart dropout control set.
+- The fonts are hinted with [ttfautohint](https://freetype.org/ttfautohint/) at build time, for sharper text at small sizes on Windows.
 - Each font has a STAT table, added by `scripts/add_stat.py` at build time.
 - Combining marks are positioned over Cyrillic and Greek letters as well as Latin ones, so stress
   accents work in Russian, Ukrainian, Belarusian, Bulgarian and Serbian. The Inter fonts Solvik was
@@ -109,6 +109,9 @@ This Font Software is licensed under the SIL Open Font License, Version 1.1. Thi
 this repo, in `OFL.txt`, and is also available with a FAQ at: https://openfontlicense.org
 
 ## Changelog
+
+**1.042** (November 2026) The fonts are now hinted with ttfautohint, which sharpens text at small sizes on
+Windows. Each file is about 300 KB larger. Outlines, metrics, spacing and features are unchanged.
 
 **1.041** (November 2026) The fonts now appear in PowerPoint 16.16 for Mac. In 1.040 the STAT step left a
 Macintosh-platform name table with no family name, and that version of PowerPoint could not list the family.
